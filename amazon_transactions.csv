@@ -1,0 +1,1001 @@
+Transaction ID,Product Name,Product Category,Price,Quantity,Purchase Date,Customer ID,Payment Method,Shipping Country
+TXN00001,Non-fiction Book,Books,20,2,2023-12-30,CUST7294,Debit Card,Nepal
+TXN00002,Fiction Book,Books,15,3,2024-10-16,CUST4500,Gift Card,Australia
+TXN00003,Electric Kettle,Home Appliances,30,1,2024-02-09,CUST1201,PayPal,Canada
+TXN00004,Fiction Book,Books,15,4,2024-10-07,CUST7966,PayPal,India
+TXN00005,Vacuum Cleaner,Home Appliances,150,3,2024-01-04,CUST2839,Amazon Pay,USA
+TXN00006,Levi’s Jeans,Fashion,70,5,2024-08-25,CUST1144,Credit Card,UK
+TXN00007,Microwave Oven,Home Appliances,200,1,2024-05-23,CUST3599,PayPal,India
+TXN00008,Microwave Oven,Home Appliances,200,3,2024-04-12,CUST3418,Amazon Pay,Nepal
+TXN00009,Dell Laptop,Computers,1099,4,2024-02-13,CUST4506,Amazon Pay,Nepal
+TXN00010,Blender,Home Appliances,50,4,2024-07-17,CUST5652,Gift Card,India
+TXN00011,Sony Headphones,Electronics,199,3,2024-09-04,CUST9768,Amazon Pay,UK
+TXN00012,Electric Kettle,Home Appliances,30,5,2024-02-10,CUST2808,Amazon Pay,USA
+TXN00013,Dumbbells,Sports,50,2,2024-04-18,CUST7787,Debit Card,Japan
+TXN00014,Non-fiction Book,Books,20,1,2024-06-10,CUST3073,PayPal,Nepal
+TXN00015,Electric Kettle,Home Appliances,30,4,2024-01-27,CUST8320,Credit Card,Japan
+TXN00016,Electric Kettle,Home Appliances,30,5,2024-04-27,CUST2855,Credit Card,Nepal
+TXN00017,Non-fiction Book,Books,20,3,2024-06-06,CUST2930,Debit Card,Nepal
+TXN00018,Blender,Home Appliances,50,5,2024-10-11,CUST4960,Credit Card,Nepal
+TXN00019,Electric Guitar,Musical Instruments,400,5,2023-11-09,CUST7230,Gift Card,Japan
+TXN00020,Electric Guitar,Musical Instruments,400,2,2024-08-11,CUST5325,Debit Card,Canada
+TXN00021,Fiction Book,Books,15,3,2024-08-04,CUST2260,Amazon Pay,Canada
+TXN00022,Yoga Mat,Sports,25,3,2024-01-29,CUST6366,Gift Card,India
+TXN00023,Nike Running Shoes,Fashion,120,2,2023-10-27,CUST6999,PayPal,India
+TXN00024,Acoustic Guitar,Musical Instruments,250,5,2024-02-04,CUST2542,Credit Card,Australia
+TXN00025,Foundation,Beauty,40,1,2024-03-01,CUST6411,PayPal,Nepal
+TXN00026,Fiction Book,Books,15,2,2023-11-25,CUST2163,Amazon Pay,UK
+TXN00027,Lipstick,Beauty,25,5,2023-12-29,CUST7449,Gift Card,India
+TXN00028,Blender,Home Appliances,50,1,2024-05-08,CUST2124,Amazon Pay,UK
+TXN00029,Adidas T-shirt,Fashion,35,5,2024-09-26,CUST4893,Gift Card,UK
+TXN00030,Electric Kettle,Home Appliances,30,3,2024-05-03,CUST5277,Debit Card,UK
+TXN00031,Non-fiction Book,Books,20,3,2024-04-26,CUST2901,Debit Card,Germany
+TXN00032,Foundation,Beauty,40,2,2024-05-30,CUST4782,PayPal,Japan
+TXN00033,Electric Guitar,Musical Instruments,400,2,2023-12-26,CUST6921,Amazon Pay,UK
+TXN00034,Levi’s Jeans,Fashion,70,1,2023-10-22,CUST4012,PayPal,India
+TXN00035,Dell Laptop,Computers,1099,1,2024-09-23,CUST5547,PayPal,India
+TXN00036,Lipstick,Beauty,25,5,2023-10-26,CUST7364,Gift Card,Japan
+TXN00037,Levi’s Jeans,Fashion,70,2,2024-04-29,CUST1800,Amazon Pay,India
+TXN00038,Non-fiction Book,Books,20,2,2024-05-17,CUST9060,Credit Card,Canada
+TXN00039,Microwave Oven,Home Appliances,200,2,2024-09-25,CUST1034,Gift Card,Germany
+TXN00040,Adidas T-shirt,Fashion,35,1,2024-03-21,CUST1517,Amazon Pay,UK
+TXN00041,Levi’s Jeans,Fashion,70,1,2024-10-19,CUST1272,Credit Card,Australia
+TXN00042,Non-fiction Book,Books,20,3,2024-01-18,CUST5705,Debit Card,Japan
+TXN00043,Non-fiction Book,Books,20,2,2024-06-29,CUST7975,Debit Card,Australia
+TXN00044,Electric Kettle,Home Appliances,30,1,2024-02-10,CUST4767,Credit Card,Germany
+TXN00045,iPhone 13,Electronics,999,5,2023-12-05,CUST1348,Gift Card,Nepal
+TXN00046,Levi’s Jeans,Fashion,70,2,2024-04-02,CUST6275,Credit Card,UK
+TXN00047,Microwave Oven,Home Appliances,200,2,2024-02-04,CUST2513,Credit Card,Australia
+TXN00048,Blender,Home Appliances,50,3,2024-07-18,CUST4447,Credit Card,Canada
+TXN00049,Electric Guitar,Musical Instruments,400,5,2024-02-10,CUST1635,Amazon Pay,USA
+TXN00050,MacBook Pro,Computers,1499,2,2024-07-04,CUST1528,Debit Card,Japan
+TXN00051,Dumbbells,Sports,50,1,2024-08-30,CUST2691,Amazon Pay,UK
+TXN00052,Electric Guitar,Musical Instruments,400,5,2024-02-27,CUST3849,Gift Card,Canada
+TXN00053,Yoga Mat,Sports,25,5,2024-09-07,CUST6186,Gift Card,Canada
+TXN00054,Dell Laptop,Computers,1099,3,2024-07-17,CUST2695,Credit Card,India
+TXN00055,Nike Running Shoes,Fashion,120,1,2024-07-07,CUST3356,Credit Card,Japan
+TXN00056,Non-fiction Book,Books,20,1,2024-06-12,CUST6127,Debit Card,Nepal
+TXN00057,iPhone 13,Electronics,999,2,2024-04-05,CUST2226,Amazon Pay,India
+TXN00058,Vacuum Cleaner,Home Appliances,150,5,2023-12-11,CUST9291,Credit Card,Australia
+TXN00059,Electric Guitar,Musical Instruments,400,3,2024-09-20,CUST7016,PayPal,Japan
+TXN00060,Dumbbells,Sports,50,2,2024-06-16,CUST8111,Amazon Pay,Germany
+TXN00061,Yoga Mat,Sports,25,2,2024-01-23,CUST7132,Debit Card,Germany
+TXN00062,Fiction Book,Books,15,2,2024-08-27,CUST6907,Debit Card,Japan
+TXN00063,Sony Headphones,Electronics,199,4,2024-08-30,CUST3945,Amazon Pay,UK
+TXN00064,Sony Headphones,Electronics,199,2,2024-08-18,CUST8948,Amazon Pay,USA
+TXN00065,Yoga Mat,Sports,25,1,2024-02-10,CUST9791,Debit Card,Germany
+TXN00066,Fiction Book,Books,15,3,2023-12-07,CUST7778,Credit Card,Australia
+TXN00067,Samsung Galaxy S21,Electronics,799,5,2024-01-29,CUST9219,PayPal,Canada
+TXN00068,Non-fiction Book,Books,20,1,2024-01-07,CUST5671,Gift Card,India
+TXN00069,Lipstick,Beauty,25,1,2024-10-17,CUST3010,Credit Card,USA
+TXN00070,Foundation,Beauty,40,3,2024-09-02,CUST6856,Amazon Pay,Canada
+TXN00071,Lipstick,Beauty,25,2,2023-10-26,CUST7167,Credit Card,Germany
+TXN00072,MacBook Pro,Computers,1499,3,2024-03-07,CUST5322,Credit Card,India
+TXN00073,Foundation,Beauty,40,3,2023-11-16,CUST8669,Gift Card,Japan
+TXN00074,Acoustic Guitar,Musical Instruments,250,1,2024-05-02,CUST3665,Debit Card,Canada
+TXN00075,Dumbbells,Sports,50,1,2024-05-10,CUST8108,Credit Card,India
+TXN00076,Acoustic Guitar,Musical Instruments,250,5,2024-01-01,CUST7192,Credit Card,Australia
+TXN00077,Levi’s Jeans,Fashion,70,3,2024-06-12,CUST3538,Credit Card,Canada
+TXN00078,Non-fiction Book,Books,20,2,2024-06-09,CUST7106,Debit Card,Japan
+TXN00079,Electric Kettle,Home Appliances,30,4,2024-10-18,CUST8844,Credit Card,Germany
+TXN00080,Levi’s Jeans,Fashion,70,3,2023-12-11,CUST2823,Credit Card,Australia
+TXN00081,Microwave Oven,Home Appliances,200,4,2024-07-30,CUST4262,Amazon Pay,Germany
+TXN00082,Yoga Mat,Sports,25,1,2024-06-04,CUST4821,Amazon Pay,Japan
+TXN00083,Electric Guitar,Musical Instruments,400,3,2023-11-30,CUST5429,Amazon Pay,India
+TXN00084,Dell Laptop,Computers,1099,3,2024-05-29,CUST2287,Gift Card,Canada
+TXN00085,Samsung Galaxy S21,Electronics,799,3,2024-05-15,CUST8299,Gift Card,Canada
+TXN00086,Lipstick,Beauty,25,4,2024-08-01,CUST1936,Debit Card,Australia
+TXN00087,Dumbbells,Sports,50,3,2024-04-15,CUST5076,PayPal,UK
+TXN00088,iPhone 13,Electronics,999,5,2024-01-29,CUST5639,PayPal,Canada
+TXN00089,MacBook Pro,Computers,1499,1,2024-03-29,CUST7926,Gift Card,Japan
+TXN00090,Electric Guitar,Musical Instruments,400,3,2024-07-07,CUST3475,Credit Card,Australia
+TXN00091,Lipstick,Beauty,25,2,2024-07-31,CUST9660,PayPal,Germany
+TXN00092,Dell Laptop,Computers,1099,3,2024-01-24,CUST3800,Gift Card,Japan
+TXN00093,Electric Kettle,Home Appliances,30,3,2024-02-10,CUST6022,Credit Card,Canada
+TXN00094,Dumbbells,Sports,50,5,2024-02-04,CUST5706,Credit Card,Japan
+TXN00095,Electric Kettle,Home Appliances,30,4,2024-02-15,CUST1520,PayPal,Nepal
+TXN00096,Microwave Oven,Home Appliances,200,4,2024-02-11,CUST4055,Credit Card,Canada
+TXN00097,Sony Headphones,Electronics,199,4,2024-03-17,CUST5682,Gift Card,UK
+TXN00098,Foundation,Beauty,40,4,2024-03-22,CUST6103,Amazon Pay,Australia
+TXN00099,Dell Laptop,Computers,1099,1,2024-01-11,CUST5891,PayPal,Australia
+TXN00100,Levi’s Jeans,Fashion,70,5,2024-02-23,CUST1127,Amazon Pay,Canada
+TXN00101,Blender,Home Appliances,50,3,2024-07-11,CUST8609,Credit Card,Japan
+TXN00102,Electric Guitar,Musical Instruments,400,2,2024-07-23,CUST6297,Debit Card,Germany
+TXN00103,Foundation,Beauty,40,2,2024-06-09,CUST4062,Debit Card,Germany
+TXN00104,Electric Guitar,Musical Instruments,400,3,2024-05-05,CUST5523,Credit Card,India
+TXN00105,Sony Headphones,Electronics,199,1,2024-03-24,CUST5447,PayPal,Germany
+TXN00106,Dumbbells,Sports,50,3,2024-05-26,CUST5768,PayPal,Japan
+TXN00107,MacBook Pro,Computers,1499,5,2024-08-05,CUST1406,Debit Card,Japan
+TXN00108,Samsung Galaxy S21,Electronics,799,2,2024-03-13,CUST6545,PayPal,UK
+TXN00109,Dumbbells,Sports,50,3,2024-01-31,CUST8277,Gift Card,Canada
+TXN00110,Electric Kettle,Home Appliances,30,1,2024-05-20,CUST4760,Debit Card,Nepal
+TXN00111,Microwave Oven,Home Appliances,200,2,2024-09-02,CUST3186,Debit Card,USA
+TXN00112,MacBook Pro,Computers,1499,3,2024-03-13,CUST3588,Debit Card,Japan
+TXN00113,Electric Guitar,Musical Instruments,400,1,2023-12-18,CUST7264,PayPal,USA
+TXN00114,iPhone 13,Electronics,999,4,2024-04-25,CUST2224,Amazon Pay,Australia
+TXN00115,Samsung Galaxy S21,Electronics,799,3,2024-10-08,CUST6412,PayPal,Nepal
+TXN00116,Nike Running Shoes,Fashion,120,5,2024-07-22,CUST7717,PayPal,Germany
+TXN00117,Levi’s Jeans,Fashion,70,4,2024-09-16,CUST8539,Gift Card,UK
+TXN00118,Dumbbells,Sports,50,1,2023-10-22,CUST3019,Debit Card,India
+TXN00119,MacBook Pro,Computers,1499,1,2023-12-04,CUST9502,PayPal,UK
+TXN00120,Dumbbells,Sports,50,4,2024-01-20,CUST4945,PayPal,Nepal
+TXN00121,iPhone 13,Electronics,999,1,2024-02-26,CUST4698,Credit Card,Japan
+TXN00122,Nike Running Shoes,Fashion,120,1,2024-09-01,CUST1978,Amazon Pay,Germany
+TXN00123,Sony Headphones,Electronics,199,3,2023-12-15,CUST4510,PayPal,Germany
+TXN00124,Sony Headphones,Electronics,199,4,2023-11-30,CUST1346,Amazon Pay,UK
+TXN00125,Yoga Mat,Sports,25,4,2023-11-29,CUST3031,Debit Card,Germany
+TXN00126,Nike Running Shoes,Fashion,120,3,2023-11-14,CUST2757,PayPal,UK
+TXN00127,Sony Headphones,Electronics,199,3,2024-04-17,CUST2899,Amazon Pay,UK
+TXN00128,Acoustic Guitar,Musical Instruments,250,2,2023-10-31,CUST4956,Amazon Pay,Australia
+TXN00129,Electric Guitar,Musical Instruments,400,2,2024-03-23,CUST4167,PayPal,Australia
+TXN00130,Foundation,Beauty,40,1,2024-09-06,CUST6470,Credit Card,India
+TXN00131,Blender,Home Appliances,50,5,2023-12-20,CUST2838,Credit Card,USA
+TXN00132,Vacuum Cleaner,Home Appliances,150,4,2024-09-07,CUST9946,Amazon Pay,Australia
+TXN00133,Dell Laptop,Computers,1099,5,2024-03-19,CUST2895,Amazon Pay,USA
+TXN00134,Electric Kettle,Home Appliances,30,4,2024-08-25,CUST2154,Amazon Pay,Japan
+TXN00135,Sony Headphones,Electronics,199,2,2024-07-09,CUST2139,Credit Card,UK
+TXN00136,Microwave Oven,Home Appliances,200,2,2024-02-28,CUST2742,Gift Card,Australia
+TXN00137,Lipstick,Beauty,25,2,2023-10-22,CUST4027,Amazon Pay,Australia
+TXN00138,Electric Kettle,Home Appliances,30,4,2024-02-03,CUST7834,PayPal,Nepal
+TXN00139,Nike Running Shoes,Fashion,120,5,2024-08-10,CUST3598,Gift Card,Canada
+TXN00140,Dumbbells,Sports,50,5,2024-04-09,CUST1144,Gift Card,USA
+TXN00141,Dell Laptop,Computers,1099,4,2024-04-26,CUST9376,Gift Card,India
+TXN00142,Yoga Mat,Sports,25,4,2024-01-21,CUST5435,Gift Card,UK
+TXN00143,Dell Laptop,Computers,1099,5,2023-12-10,CUST9421,Amazon Pay,USA
+TXN00144,Vacuum Cleaner,Home Appliances,150,4,2023-11-01,CUST2498,Amazon Pay,India
+TXN00145,Yoga Mat,Sports,25,1,2024-02-22,CUST3384,Credit Card,Japan
+TXN00146,Acoustic Guitar,Musical Instruments,250,5,2024-05-20,CUST1917,PayPal,UK
+TXN00147,Levi’s Jeans,Fashion,70,1,2024-01-27,CUST4103,Amazon Pay,Japan
+TXN00148,Electric Guitar,Musical Instruments,400,1,2024-05-26,CUST4092,Gift Card,UK
+TXN00149,Sony Headphones,Electronics,199,4,2024-05-05,CUST9894,Credit Card,Australia
+TXN00150,Yoga Mat,Sports,25,5,2024-05-25,CUST6937,Amazon Pay,Canada
+TXN00151,Vacuum Cleaner,Home Appliances,150,5,2024-09-27,CUST4531,Gift Card,Germany
+TXN00152,iPhone 13,Electronics,999,1,2023-12-28,CUST4807,Amazon Pay,India
+TXN00153,Lipstick,Beauty,25,4,2024-01-04,CUST4846,Gift Card,Nepal
+TXN00154,Acoustic Guitar,Musical Instruments,250,1,2024-01-27,CUST6150,Amazon Pay,India
+TXN00155,Samsung Galaxy S21,Electronics,799,1,2024-05-14,CUST3275,Gift Card,Japan
+TXN00156,MacBook Pro,Computers,1499,5,2024-08-15,CUST8010,Amazon Pay,Japan
+TXN00157,Lipstick,Beauty,25,5,2024-08-04,CUST3906,Gift Card,USA
+TXN00158,Dell Laptop,Computers,1099,4,2024-03-21,CUST4579,Debit Card,Japan
+TXN00159,Samsung Galaxy S21,Electronics,799,5,2024-03-31,CUST2246,Amazon Pay,UK
+TXN00160,Yoga Mat,Sports,25,3,2024-01-15,CUST5970,Credit Card,Australia
+TXN00161,MacBook Pro,Computers,1499,3,2024-10-19,CUST8837,Amazon Pay,Australia
+TXN00162,Acoustic Guitar,Musical Instruments,250,3,2024-04-07,CUST6511,Debit Card,India
+TXN00163,Dumbbells,Sports,50,4,2023-11-05,CUST3369,Gift Card,Australia
+TXN00164,Blender,Home Appliances,50,1,2023-11-23,CUST7363,Debit Card,Japan
+TXN00165,Dell Laptop,Computers,1099,4,2024-03-12,CUST1240,PayPal,USA
+TXN00166,iPhone 13,Electronics,999,1,2024-03-17,CUST7459,Gift Card,Japan
+TXN00167,Dumbbells,Sports,50,3,2024-08-30,CUST3237,Amazon Pay,Canada
+TXN00168,Foundation,Beauty,40,4,2024-01-11,CUST7038,Credit Card,India
+TXN00169,Dell Laptop,Computers,1099,3,2023-11-12,CUST3794,Amazon Pay,Nepal
+TXN00170,Non-fiction Book,Books,20,1,2024-08-20,CUST4855,Amazon Pay,Japan
+TXN00171,Electric Guitar,Musical Instruments,400,5,2024-02-01,CUST1688,Credit Card,India
+TXN00172,Fiction Book,Books,15,4,2024-07-21,CUST3114,Credit Card,Australia
+TXN00173,Foundation,Beauty,40,4,2023-12-17,CUST2247,Gift Card,India
+TXN00174,Acoustic Guitar,Musical Instruments,250,5,2024-08-05,CUST2775,Debit Card,Nepal
+TXN00175,Microwave Oven,Home Appliances,200,5,2024-07-17,CUST9154,Gift Card,India
+TXN00176,MacBook Pro,Computers,1499,1,2024-05-21,CUST2754,Debit Card,Germany
+TXN00177,Fiction Book,Books,15,1,2023-11-28,CUST3960,PayPal,UK
+TXN00178,Microwave Oven,Home Appliances,200,4,2024-10-12,CUST5010,Gift Card,Germany
+TXN00179,MacBook Pro,Computers,1499,2,2024-08-27,CUST6405,PayPal,Germany
+TXN00180,Non-fiction Book,Books,20,4,2024-01-02,CUST5442,Debit Card,Australia
+TXN00181,Samsung Galaxy S21,Electronics,799,4,2024-05-19,CUST8121,Amazon Pay,UK
+TXN00182,Nike Running Shoes,Fashion,120,1,2024-08-24,CUST8816,Amazon Pay,USA
+TXN00183,MacBook Pro,Computers,1499,2,2024-04-12,CUST2270,PayPal,Canada
+TXN00184,Fiction Book,Books,15,1,2023-11-21,CUST4878,Gift Card,Nepal
+TXN00185,Levi’s Jeans,Fashion,70,5,2024-06-18,CUST3852,Debit Card,Australia
+TXN00186,Levi’s Jeans,Fashion,70,2,2024-04-16,CUST5089,PayPal,UK
+TXN00187,Levi’s Jeans,Fashion,70,2,2024-02-22,CUST3926,Credit Card,USA
+TXN00188,Microwave Oven,Home Appliances,200,4,2024-03-02,CUST7615,Amazon Pay,Japan
+TXN00189,Dumbbells,Sports,50,5,2024-04-22,CUST8620,Credit Card,Australia
+TXN00190,Dell Laptop,Computers,1099,3,2024-05-02,CUST3692,Debit Card,Germany
+TXN00191,Vacuum Cleaner,Home Appliances,150,4,2024-10-06,CUST4185,Gift Card,USA
+TXN00192,Electric Guitar,Musical Instruments,400,5,2024-07-23,CUST4398,Amazon Pay,Japan
+TXN00193,Adidas T-shirt,Fashion,35,5,2024-05-04,CUST6515,PayPal,UK
+TXN00194,Foundation,Beauty,40,5,2024-09-23,CUST4283,Debit Card,Australia
+TXN00195,Vacuum Cleaner,Home Appliances,150,2,2023-12-13,CUST6654,Amazon Pay,Nepal
+TXN00196,Non-fiction Book,Books,20,2,2024-10-03,CUST3376,Credit Card,Australia
+TXN00197,Vacuum Cleaner,Home Appliances,150,3,2024-10-01,CUST2779,Gift Card,Canada
+TXN00198,Levi’s Jeans,Fashion,70,4,2024-09-12,CUST2872,Amazon Pay,Japan
+TXN00199,Adidas T-shirt,Fashion,35,4,2024-04-25,CUST3257,Amazon Pay,UK
+TXN00200,Samsung Galaxy S21,Electronics,799,2,2024-06-22,CUST6982,PayPal,India
+TXN00201,Samsung Galaxy S21,Electronics,799,4,2023-12-27,CUST8642,Debit Card,Japan
+TXN00202,Yoga Mat,Sports,25,2,2024-10-01,CUST2046,Credit Card,Canada
+TXN00203,Levi’s Jeans,Fashion,70,4,2024-10-09,CUST4538,Debit Card,UK
+TXN00204,Lipstick,Beauty,25,5,2023-12-11,CUST8330,Credit Card,Canada
+TXN00205,Electric Kettle,Home Appliances,30,4,2023-11-29,CUST5784,Gift Card,Australia
+TXN00206,Dell Laptop,Computers,1099,5,2024-04-14,CUST8868,Amazon Pay,Nepal
+TXN00207,Dumbbells,Sports,50,2,2024-03-21,CUST9151,PayPal,Nepal
+TXN00208,Vacuum Cleaner,Home Appliances,150,3,2024-04-22,CUST3397,Debit Card,Canada
+TXN00209,Lipstick,Beauty,25,2,2024-07-04,CUST5008,PayPal,Germany
+TXN00210,Acoustic Guitar,Musical Instruments,250,1,2024-02-17,CUST4264,Debit Card,Japan
+TXN00211,iPhone 13,Electronics,999,2,2024-02-08,CUST4608,Credit Card,India
+TXN00212,Microwave Oven,Home Appliances,200,3,2024-04-29,CUST3012,Gift Card,India
+TXN00213,Levi’s Jeans,Fashion,70,2,2024-09-25,CUST7374,Gift Card,Canada
+TXN00214,Foundation,Beauty,40,2,2023-12-11,CUST1644,PayPal,Australia
+TXN00215,Microwave Oven,Home Appliances,200,1,2024-04-21,CUST5853,Amazon Pay,UK
+TXN00216,Dumbbells,Sports,50,2,2024-02-06,CUST7097,Amazon Pay,USA
+TXN00217,Samsung Galaxy S21,Electronics,799,4,2024-01-06,CUST2925,PayPal,Nepal
+TXN00218,Electric Guitar,Musical Instruments,400,1,2024-03-27,CUST2327,PayPal,UK
+TXN00219,Levi’s Jeans,Fashion,70,4,2023-11-18,CUST8336,Amazon Pay,Australia
+TXN00220,Sony Headphones,Electronics,199,4,2023-10-23,CUST7374,Amazon Pay,Australia
+TXN00221,Non-fiction Book,Books,20,4,2024-07-19,CUST7654,Credit Card,Japan
+TXN00222,Electric Kettle,Home Appliances,30,3,2024-04-05,CUST4332,Amazon Pay,India
+TXN00223,Yoga Mat,Sports,25,4,2023-12-04,CUST4500,Gift Card,Canada
+TXN00224,Electric Kettle,Home Appliances,30,4,2024-08-30,CUST7959,Gift Card,Japan
+TXN00225,Sony Headphones,Electronics,199,5,2023-12-01,CUST8430,Amazon Pay,Canada
+TXN00226,Nike Running Shoes,Fashion,120,1,2024-09-09,CUST2731,PayPal,India
+TXN00227,Microwave Oven,Home Appliances,200,3,2024-04-20,CUST8935,Debit Card,USA
+TXN00228,Acoustic Guitar,Musical Instruments,250,5,2024-08-09,CUST5909,Debit Card,Canada
+TXN00229,Electric Guitar,Musical Instruments,400,1,2024-01-07,CUST7322,PayPal,USA
+TXN00230,Acoustic Guitar,Musical Instruments,250,2,2024-09-03,CUST7792,Gift Card,USA
+TXN00231,Fiction Book,Books,15,2,2024-09-01,CUST5691,Amazon Pay,Germany
+TXN00232,Adidas T-shirt,Fashion,35,4,2024-07-25,CUST1001,PayPal,UK
+TXN00233,Electric Kettle,Home Appliances,30,5,2024-02-09,CUST1022,Credit Card,India
+TXN00234,Dumbbells,Sports,50,1,2024-07-27,CUST4532,Gift Card,Canada
+TXN00235,Lipstick,Beauty,25,5,2023-12-06,CUST7723,Debit Card,Japan
+TXN00236,Blender,Home Appliances,50,3,2024-09-24,CUST1044,Debit Card,USA
+TXN00237,Adidas T-shirt,Fashion,35,2,2024-04-04,CUST2552,Credit Card,Germany
+TXN00238,Electric Guitar,Musical Instruments,400,5,2023-10-22,CUST6575,Credit Card,USA
+TXN00239,Fiction Book,Books,15,5,2024-06-16,CUST9998,Debit Card,Japan
+TXN00240,Fiction Book,Books,15,5,2024-02-03,CUST6858,Debit Card,Japan
+TXN00241,Yoga Mat,Sports,25,5,2023-12-02,CUST8178,Credit Card,Germany
+TXN00242,Dumbbells,Sports,50,2,2024-10-11,CUST1947,Gift Card,Canada
+TXN00243,MacBook Pro,Computers,1499,4,2024-07-26,CUST9355,Debit Card,Canada
+TXN00244,Microwave Oven,Home Appliances,200,4,2024-03-30,CUST9466,PayPal,UK
+TXN00245,Adidas T-shirt,Fashion,35,1,2024-02-18,CUST6356,PayPal,UK
+TXN00246,Adidas T-shirt,Fashion,35,5,2024-01-19,CUST7423,Amazon Pay,Germany
+TXN00247,Microwave Oven,Home Appliances,200,4,2024-02-28,CUST4641,Gift Card,Japan
+TXN00248,Electric Guitar,Musical Instruments,400,3,2023-10-28,CUST6481,Amazon Pay,UK
+TXN00249,Dell Laptop,Computers,1099,5,2023-11-14,CUST4245,Gift Card,India
+TXN00250,Dumbbells,Sports,50,4,2024-09-15,CUST6190,PayPal,Canada
+TXN00251,iPhone 13,Electronics,999,5,2024-04-13,CUST9298,Amazon Pay,India
+TXN00252,Blender,Home Appliances,50,3,2024-02-21,CUST6570,Debit Card,Germany
+TXN00253,Yoga Mat,Sports,25,2,2024-06-30,CUST5311,Credit Card,Germany
+TXN00254,Microwave Oven,Home Appliances,200,3,2024-01-19,CUST9393,Credit Card,Canada
+TXN00255,Foundation,Beauty,40,1,2024-07-03,CUST6936,Debit Card,Australia
+TXN00256,Microwave Oven,Home Appliances,200,3,2024-09-24,CUST1952,Gift Card,Canada
+TXN00257,Foundation,Beauty,40,5,2024-01-21,CUST8536,PayPal,UK
+TXN00258,Yoga Mat,Sports,25,5,2024-01-19,CUST6352,PayPal,Germany
+TXN00259,Non-fiction Book,Books,20,1,2023-12-01,CUST7941,Credit Card,Nepal
+TXN00260,Nike Running Shoes,Fashion,120,2,2024-06-17,CUST2161,Amazon Pay,Canada
+TXN00261,Non-fiction Book,Books,20,4,2024-05-18,CUST2072,PayPal,Japan
+TXN00262,Foundation,Beauty,40,2,2024-03-07,CUST7757,Gift Card,Nepal
+TXN00263,Samsung Galaxy S21,Electronics,799,4,2024-07-01,CUST5866,Credit Card,Germany
+TXN00264,Electric Guitar,Musical Instruments,400,5,2024-05-05,CUST5725,Gift Card,Germany
+TXN00265,MacBook Pro,Computers,1499,3,2023-11-26,CUST8126,PayPal,Japan
+TXN00266,Foundation,Beauty,40,2,2024-08-02,CUST4830,Gift Card,Japan
+TXN00267,Sony Headphones,Electronics,199,1,2024-05-16,CUST6501,Debit Card,India
+TXN00268,Electric Guitar,Musical Instruments,400,4,2024-07-21,CUST3332,PayPal,Nepal
+TXN00269,Blender,Home Appliances,50,4,2024-03-23,CUST9203,Debit Card,Germany
+TXN00270,Samsung Galaxy S21,Electronics,799,3,2024-04-20,CUST4656,Amazon Pay,Germany
+TXN00271,iPhone 13,Electronics,999,1,2024-06-18,CUST7307,PayPal,USA
+TXN00272,Foundation,Beauty,40,3,2024-08-17,CUST8719,Amazon Pay,Japan
+TXN00273,Electric Kettle,Home Appliances,30,5,2023-10-23,CUST7654,PayPal,Japan
+TXN00274,iPhone 13,Electronics,999,4,2023-12-19,CUST8941,Credit Card,Australia
+TXN00275,Vacuum Cleaner,Home Appliances,150,3,2024-02-01,CUST1650,Debit Card,Canada
+TXN00276,Dumbbells,Sports,50,4,2024-06-02,CUST7895,Gift Card,USA
+TXN00277,Sony Headphones,Electronics,199,3,2023-12-01,CUST2388,Amazon Pay,UK
+TXN00278,iPhone 13,Electronics,999,3,2024-04-05,CUST1102,Debit Card,Japan
+TXN00279,iPhone 13,Electronics,999,3,2024-02-26,CUST7323,Credit Card,Nepal
+TXN00280,Electric Kettle,Home Appliances,30,4,2024-03-19,CUST9464,Credit Card,UK
+TXN00281,iPhone 13,Electronics,999,1,2024-09-25,CUST3449,PayPal,UK
+TXN00282,Foundation,Beauty,40,5,2024-07-15,CUST3233,Amazon Pay,UK
+TXN00283,Dumbbells,Sports,50,1,2024-08-01,CUST9685,PayPal,USA
+TXN00284,Sony Headphones,Electronics,199,4,2024-08-23,CUST4797,PayPal,Germany
+TXN00285,Adidas T-shirt,Fashion,35,2,2024-06-07,CUST9499,PayPal,UK
+TXN00286,Yoga Mat,Sports,25,2,2024-08-02,CUST5572,Gift Card,USA
+TXN00287,Fiction Book,Books,15,1,2024-02-17,CUST1598,Amazon Pay,Australia
+TXN00288,Electric Guitar,Musical Instruments,400,1,2024-09-06,CUST9920,Debit Card,Nepal
+TXN00289,Electric Guitar,Musical Instruments,400,3,2024-03-18,CUST5767,PayPal,Nepal
+TXN00290,MacBook Pro,Computers,1499,3,2024-03-12,CUST8883,Gift Card,USA
+TXN00291,Fiction Book,Books,15,4,2024-06-13,CUST1052,Credit Card,Germany
+TXN00292,Non-fiction Book,Books,20,5,2024-10-11,CUST9052,PayPal,USA
+TXN00293,Levi’s Jeans,Fashion,70,5,2024-04-24,CUST2069,Credit Card,Nepal
+TXN00294,Sony Headphones,Electronics,199,2,2024-09-02,CUST7131,PayPal,UK
+TXN00295,Non-fiction Book,Books,20,4,2024-09-22,CUST5161,Gift Card,Australia
+TXN00296,MacBook Pro,Computers,1499,5,2024-04-24,CUST2687,PayPal,Nepal
+TXN00297,Yoga Mat,Sports,25,2,2024-04-05,CUST9299,Debit Card,India
+TXN00298,Microwave Oven,Home Appliances,200,5,2024-07-08,CUST9355,PayPal,India
+TXN00299,Fiction Book,Books,15,3,2024-09-11,CUST3978,Credit Card,India
+TXN00300,Acoustic Guitar,Musical Instruments,250,1,2024-06-29,CUST8316,Credit Card,Japan
+TXN00301,Acoustic Guitar,Musical Instruments,250,5,2024-02-06,CUST4380,PayPal,Nepal
+TXN00302,Samsung Galaxy S21,Electronics,799,1,2023-12-30,CUST2744,Gift Card,Australia
+TXN00303,Dell Laptop,Computers,1099,4,2024-02-11,CUST7923,Gift Card,Nepal
+TXN00304,Nike Running Shoes,Fashion,120,2,2023-12-23,CUST7372,Amazon Pay,India
+TXN00305,Foundation,Beauty,40,1,2023-10-30,CUST3111,Credit Card,USA
+TXN00306,MacBook Pro,Computers,1499,5,2023-12-20,CUST1964,PayPal,Japan
+TXN00307,iPhone 13,Electronics,999,1,2024-10-18,CUST1800,PayPal,USA
+TXN00308,Blender,Home Appliances,50,1,2024-02-04,CUST4250,Debit Card,Australia
+TXN00309,Foundation,Beauty,40,2,2024-02-27,CUST3744,Credit Card,UK
+TXN00310,Dumbbells,Sports,50,4,2024-07-09,CUST5315,PayPal,UK
+TXN00311,Microwave Oven,Home Appliances,200,3,2024-06-30,CUST3103,PayPal,India
+TXN00312,Vacuum Cleaner,Home Appliances,150,3,2024-06-11,CUST3284,Credit Card,USA
+TXN00313,Microwave Oven,Home Appliances,200,1,2024-06-15,CUST4266,Debit Card,Australia
+TXN00314,Samsung Galaxy S21,Electronics,799,3,2024-06-18,CUST7358,Credit Card,Australia
+TXN00315,Sony Headphones,Electronics,199,2,2023-11-22,CUST6810,Credit Card,Germany
+TXN00316,Nike Running Shoes,Fashion,120,4,2024-07-11,CUST2445,Debit Card,USA
+TXN00317,Acoustic Guitar,Musical Instruments,250,5,2024-08-30,CUST1532,PayPal,Germany
+TXN00318,Samsung Galaxy S21,Electronics,799,5,2024-01-21,CUST8489,Debit Card,UK
+TXN00319,Electric Kettle,Home Appliances,30,5,2024-05-25,CUST2871,PayPal,Japan
+TXN00320,iPhone 13,Electronics,999,1,2024-03-06,CUST9859,PayPal,UK
+TXN00321,Dell Laptop,Computers,1099,3,2023-10-28,CUST9418,Credit Card,USA
+TXN00322,Samsung Galaxy S21,Electronics,799,5,2024-05-15,CUST2438,Debit Card,Canada
+TXN00323,Electric Kettle,Home Appliances,30,3,2024-02-29,CUST1923,PayPal,Germany
+TXN00324,Electric Kettle,Home Appliances,30,4,2024-08-18,CUST8570,Debit Card,Nepal
+TXN00325,Yoga Mat,Sports,25,5,2024-09-27,CUST5779,Credit Card,USA
+TXN00326,Yoga Mat,Sports,25,1,2024-07-03,CUST1200,Credit Card,Australia
+TXN00327,Adidas T-shirt,Fashion,35,4,2024-03-14,CUST3980,PayPal,Japan
+TXN00328,Electric Kettle,Home Appliances,30,1,2024-07-22,CUST9682,PayPal,Germany
+TXN00329,Vacuum Cleaner,Home Appliances,150,5,2024-03-29,CUST1740,Gift Card,Japan
+TXN00330,Blender,Home Appliances,50,4,2024-05-03,CUST3761,Credit Card,India
+TXN00331,Electric Kettle,Home Appliances,30,1,2024-02-10,CUST9656,Gift Card,USA
+TXN00332,Nike Running Shoes,Fashion,120,3,2024-02-17,CUST6746,Gift Card,Germany
+TXN00333,Lipstick,Beauty,25,5,2024-09-01,CUST9898,Debit Card,Japan
+TXN00334,Yoga Mat,Sports,25,5,2023-10-30,CUST3395,Debit Card,Japan
+TXN00335,Vacuum Cleaner,Home Appliances,150,3,2024-02-29,CUST1581,Debit Card,Australia
+TXN00336,Levi’s Jeans,Fashion,70,1,2023-12-29,CUST6448,PayPal,Australia
+TXN00337,Electric Guitar,Musical Instruments,400,5,2024-01-03,CUST3379,Amazon Pay,Nepal
+TXN00338,Blender,Home Appliances,50,3,2024-07-12,CUST6297,Amazon Pay,India
+TXN00339,Samsung Galaxy S21,Electronics,799,5,2024-06-25,CUST5328,Credit Card,India
+TXN00340,Microwave Oven,Home Appliances,200,3,2024-04-11,CUST9051,Credit Card,UK
+TXN00341,Sony Headphones,Electronics,199,2,2024-02-07,CUST5633,Debit Card,Nepal
+TXN00342,Non-fiction Book,Books,20,4,2023-12-23,CUST6833,Gift Card,UK
+TXN00343,Non-fiction Book,Books,20,2,2024-10-10,CUST3990,PayPal,Australia
+TXN00344,MacBook Pro,Computers,1499,1,2024-01-04,CUST6754,Gift Card,Japan
+TXN00345,Adidas T-shirt,Fashion,35,4,2024-05-21,CUST7421,Amazon Pay,Australia
+TXN00346,Acoustic Guitar,Musical Instruments,250,5,2024-07-01,CUST5641,Amazon Pay,Germany
+TXN00347,Lipstick,Beauty,25,4,2024-04-04,CUST7707,Amazon Pay,Germany
+TXN00348,Dumbbells,Sports,50,1,2023-11-01,CUST3189,Credit Card,USA
+TXN00349,Vacuum Cleaner,Home Appliances,150,1,2024-08-20,CUST3376,Credit Card,USA
+TXN00350,Vacuum Cleaner,Home Appliances,150,1,2024-06-15,CUST1964,Credit Card,UK
+TXN00351,Fiction Book,Books,15,1,2024-08-29,CUST3582,Gift Card,Japan
+TXN00352,Nike Running Shoes,Fashion,120,3,2024-05-28,CUST2454,PayPal,Canada
+TXN00353,iPhone 13,Electronics,999,2,2024-06-23,CUST3757,Debit Card,UK
+TXN00354,Samsung Galaxy S21,Electronics,799,1,2024-08-13,CUST3840,Debit Card,Australia
+TXN00355,Electric Guitar,Musical Instruments,400,5,2024-08-16,CUST7963,Gift Card,Australia
+TXN00356,Acoustic Guitar,Musical Instruments,250,2,2024-01-30,CUST7994,Amazon Pay,Germany
+TXN00357,Non-fiction Book,Books,20,1,2024-09-03,CUST8118,Debit Card,Australia
+TXN00358,Levi’s Jeans,Fashion,70,4,2023-11-07,CUST7173,Credit Card,Australia
+TXN00359,Fiction Book,Books,15,1,2023-11-26,CUST4601,Credit Card,USA
+TXN00360,Nike Running Shoes,Fashion,120,4,2024-06-05,CUST2692,Gift Card,USA
+TXN00361,Levi’s Jeans,Fashion,70,2,2024-08-14,CUST8346,Credit Card,UK
+TXN00362,Foundation,Beauty,40,2,2024-01-18,CUST9986,PayPal,USA
+TXN00363,Adidas T-shirt,Fashion,35,1,2023-12-21,CUST5696,Credit Card,Japan
+TXN00364,Fiction Book,Books,15,5,2024-05-11,CUST7128,Amazon Pay,Germany
+TXN00365,iPhone 13,Electronics,999,4,2023-11-18,CUST6243,Amazon Pay,Nepal
+TXN00366,Adidas T-shirt,Fashion,35,1,2024-08-04,CUST7783,Amazon Pay,Japan
+TXN00367,Vacuum Cleaner,Home Appliances,150,1,2024-02-18,CUST8468,PayPal,UK
+TXN00368,Samsung Galaxy S21,Electronics,799,2,2024-10-05,CUST6932,Credit Card,Australia
+TXN00369,MacBook Pro,Computers,1499,2,2023-11-30,CUST3955,Gift Card,Nepal
+TXN00370,Microwave Oven,Home Appliances,200,3,2024-06-07,CUST5421,Amazon Pay,India
+TXN00371,Lipstick,Beauty,25,2,2024-07-11,CUST5176,PayPal,Australia
+TXN00372,Samsung Galaxy S21,Electronics,799,1,2024-01-07,CUST2374,Credit Card,Australia
+TXN00373,Non-fiction Book,Books,20,4,2024-01-05,CUST3473,Credit Card,USA
+TXN00374,Lipstick,Beauty,25,1,2024-07-06,CUST4346,Amazon Pay,Canada
+TXN00375,Acoustic Guitar,Musical Instruments,250,3,2023-12-26,CUST7660,Amazon Pay,Germany
+TXN00376,Foundation,Beauty,40,1,2024-06-25,CUST1214,Gift Card,UK
+TXN00377,Nike Running Shoes,Fashion,120,4,2024-01-04,CUST9695,Gift Card,Canada
+TXN00378,Microwave Oven,Home Appliances,200,5,2024-06-25,CUST5150,Credit Card,Canada
+TXN00379,Adidas T-shirt,Fashion,35,4,2024-07-02,CUST6866,PayPal,USA
+TXN00380,Fiction Book,Books,15,4,2023-11-11,CUST3337,Gift Card,India
+TXN00381,Nike Running Shoes,Fashion,120,4,2023-10-23,CUST8966,Gift Card,India
+TXN00382,Non-fiction Book,Books,20,1,2024-06-02,CUST8116,Debit Card,Nepal
+TXN00383,Foundation,Beauty,40,5,2023-11-17,CUST9312,Debit Card,Nepal
+TXN00384,Fiction Book,Books,15,1,2024-01-29,CUST9334,Credit Card,Nepal
+TXN00385,Microwave Oven,Home Appliances,200,5,2024-07-26,CUST3624,Debit Card,UK
+TXN00386,Nike Running Shoes,Fashion,120,1,2023-12-14,CUST3335,Gift Card,Canada
+TXN00387,MacBook Pro,Computers,1499,5,2023-12-26,CUST2995,Credit Card,USA
+TXN00388,Levi’s Jeans,Fashion,70,1,2024-04-09,CUST2311,Gift Card,UK
+TXN00389,Fiction Book,Books,15,4,2024-05-07,CUST9692,PayPal,Japan
+TXN00390,Vacuum Cleaner,Home Appliances,150,4,2023-11-18,CUST7992,PayPal,USA
+TXN00391,Foundation,Beauty,40,2,2024-07-08,CUST4247,Amazon Pay,Australia
+TXN00392,Dumbbells,Sports,50,5,2024-07-20,CUST3922,Gift Card,India
+TXN00393,Non-fiction Book,Books,20,4,2024-08-13,CUST5488,Gift Card,Japan
+TXN00394,Samsung Galaxy S21,Electronics,799,3,2024-04-09,CUST9569,Debit Card,Canada
+TXN00395,Acoustic Guitar,Musical Instruments,250,1,2024-04-26,CUST7157,Gift Card,Japan
+TXN00396,MacBook Pro,Computers,1499,3,2024-04-27,CUST9454,Debit Card,Nepal
+TXN00397,Microwave Oven,Home Appliances,200,2,2023-11-13,CUST1927,Amazon Pay,Germany
+TXN00398,Electric Kettle,Home Appliances,30,5,2023-10-25,CUST3691,Gift Card,Australia
+TXN00399,Foundation,Beauty,40,4,2024-04-03,CUST1975,Amazon Pay,USA
+TXN00400,Acoustic Guitar,Musical Instruments,250,1,2023-11-13,CUST8715,Amazon Pay,UK
+TXN00401,Dell Laptop,Computers,1099,1,2024-01-27,CUST9402,Debit Card,Germany
+TXN00402,Blender,Home Appliances,50,4,2023-10-27,CUST1759,Debit Card,India
+TXN00403,Electric Guitar,Musical Instruments,400,4,2024-04-02,CUST4541,Debit Card,Japan
+TXN00404,Acoustic Guitar,Musical Instruments,250,1,2024-07-19,CUST4447,Amazon Pay,India
+TXN00405,iPhone 13,Electronics,999,4,2024-10-17,CUST7368,Amazon Pay,Germany
+TXN00406,Non-fiction Book,Books,20,1,2024-03-15,CUST3828,Debit Card,Nepal
+TXN00407,MacBook Pro,Computers,1499,4,2023-11-14,CUST7125,Credit Card,India
+TXN00408,Levi’s Jeans,Fashion,70,2,2023-10-30,CUST5548,Debit Card,India
+TXN00409,Dell Laptop,Computers,1099,3,2023-12-28,CUST9201,Amazon Pay,Nepal
+TXN00410,Samsung Galaxy S21,Electronics,799,1,2024-02-23,CUST4102,PayPal,Nepal
+TXN00411,MacBook Pro,Computers,1499,4,2024-09-01,CUST2770,Debit Card,Japan
+TXN00412,Electric Guitar,Musical Instruments,400,3,2024-05-05,CUST1770,Credit Card,Germany
+TXN00413,Dumbbells,Sports,50,2,2024-04-04,CUST9303,Debit Card,Japan
+TXN00414,MacBook Pro,Computers,1499,1,2024-10-09,CUST5023,Credit Card,Canada
+TXN00415,Blender,Home Appliances,50,5,2024-07-27,CUST3325,Gift Card,Nepal
+TXN00416,Electric Guitar,Musical Instruments,400,5,2024-08-30,CUST9797,Credit Card,Germany
+TXN00417,Dell Laptop,Computers,1099,1,2024-04-09,CUST1812,PayPal,Nepal
+TXN00418,Electric Kettle,Home Appliances,30,5,2024-01-31,CUST2788,PayPal,UK
+TXN00419,MacBook Pro,Computers,1499,5,2024-02-21,CUST7061,Debit Card,USA
+TXN00420,Nike Running Shoes,Fashion,120,3,2024-08-25,CUST2225,Gift Card,Australia
+TXN00421,Electric Guitar,Musical Instruments,400,4,2024-08-06,CUST7290,Gift Card,Nepal
+TXN00422,Sony Headphones,Electronics,199,2,2024-04-04,CUST2297,Debit Card,Nepal
+TXN00423,Dumbbells,Sports,50,1,2023-10-23,CUST3583,Credit Card,UK
+TXN00424,Fiction Book,Books,15,4,2024-02-01,CUST2761,Gift Card,USA
+TXN00425,Foundation,Beauty,40,5,2024-02-05,CUST3992,Amazon Pay,Germany
+TXN00426,Non-fiction Book,Books,20,3,2024-09-03,CUST5299,Gift Card,Australia
+TXN00427,Electric Guitar,Musical Instruments,400,2,2024-04-02,CUST7164,Debit Card,UK
+TXN00428,Levi’s Jeans,Fashion,70,2,2023-11-27,CUST8021,PayPal,UK
+TXN00429,Blender,Home Appliances,50,3,2024-05-09,CUST4278,PayPal,Australia
+TXN00430,Samsung Galaxy S21,Electronics,799,2,2024-02-16,CUST4298,Amazon Pay,Japan
+TXN00431,Adidas T-shirt,Fashion,35,5,2024-07-06,CUST7561,Amazon Pay,Japan
+TXN00432,Microwave Oven,Home Appliances,200,4,2024-09-22,CUST1046,Amazon Pay,Australia
+TXN00433,Adidas T-shirt,Fashion,35,4,2024-09-10,CUST2075,Gift Card,Germany
+TXN00434,Lipstick,Beauty,25,4,2023-11-14,CUST7078,PayPal,Nepal
+TXN00435,Blender,Home Appliances,50,4,2024-09-19,CUST6176,Credit Card,USA
+TXN00436,Lipstick,Beauty,25,3,2024-01-22,CUST9601,PayPal,Japan
+TXN00437,iPhone 13,Electronics,999,5,2024-01-09,CUST2372,Debit Card,Nepal
+TXN00438,Electric Guitar,Musical Instruments,400,1,2023-11-06,CUST6766,Gift Card,USA
+TXN00439,Adidas T-shirt,Fashion,35,3,2023-12-04,CUST8523,Gift Card,Germany
+TXN00440,Dell Laptop,Computers,1099,5,2024-01-05,CUST4686,PayPal,India
+TXN00441,Yoga Mat,Sports,25,4,2024-01-05,CUST8267,Debit Card,USA
+TXN00442,Blender,Home Appliances,50,3,2024-07-25,CUST2669,Gift Card,Canada
+TXN00443,Microwave Oven,Home Appliances,200,2,2024-01-27,CUST4224,PayPal,Germany
+TXN00444,Electric Guitar,Musical Instruments,400,5,2024-07-02,CUST6629,Debit Card,Germany
+TXN00445,Electric Kettle,Home Appliances,30,5,2024-01-24,CUST6889,Amazon Pay,Canada
+TXN00446,Dumbbells,Sports,50,5,2024-05-14,CUST2411,Debit Card,Nepal
+TXN00447,Microwave Oven,Home Appliances,200,5,2024-09-09,CUST9345,PayPal,India
+TXN00448,Samsung Galaxy S21,Electronics,799,3,2024-01-03,CUST5764,Credit Card,USA
+TXN00449,Electric Guitar,Musical Instruments,400,4,2023-11-15,CUST5820,Amazon Pay,Canada
+TXN00450,Dumbbells,Sports,50,5,2024-01-16,CUST2951,Amazon Pay,Germany
+TXN00451,Samsung Galaxy S21,Electronics,799,4,2023-12-30,CUST5596,Credit Card,Japan
+TXN00452,Dell Laptop,Computers,1099,3,2024-06-20,CUST5128,Gift Card,Australia
+TXN00453,Levi’s Jeans,Fashion,70,1,2024-08-18,CUST8100,PayPal,Japan
+TXN00454,Electric Kettle,Home Appliances,30,5,2024-05-14,CUST6796,Credit Card,Canada
+TXN00455,Adidas T-shirt,Fashion,35,2,2024-07-05,CUST6082,Credit Card,Australia
+TXN00456,Sony Headphones,Electronics,199,4,2024-08-09,CUST5108,Gift Card,UK
+TXN00457,Nike Running Shoes,Fashion,120,5,2024-02-03,CUST7538,Amazon Pay,USA
+TXN00458,Blender,Home Appliances,50,4,2024-02-21,CUST6919,Debit Card,USA
+TXN00459,Fiction Book,Books,15,1,2024-03-23,CUST4750,Gift Card,USA
+TXN00460,Fiction Book,Books,15,2,2023-11-16,CUST9777,PayPal,Japan
+TXN00461,Adidas T-shirt,Fashion,35,5,2023-10-24,CUST8592,Credit Card,Nepal
+TXN00462,Lipstick,Beauty,25,2,2024-05-31,CUST4320,Gift Card,Germany
+TXN00463,Sony Headphones,Electronics,199,3,2024-07-27,CUST9432,Debit Card,Canada
+TXN00464,Dumbbells,Sports,50,2,2024-01-19,CUST9079,Gift Card,Canada
+TXN00465,Sony Headphones,Electronics,199,4,2024-02-02,CUST1567,Credit Card,India
+TXN00466,MacBook Pro,Computers,1499,2,2023-11-22,CUST6831,Debit Card,Japan
+TXN00467,MacBook Pro,Computers,1499,1,2024-06-27,CUST3985,Credit Card,Australia
+TXN00468,Vacuum Cleaner,Home Appliances,150,3,2024-04-10,CUST9512,Credit Card,Germany
+TXN00469,Foundation,Beauty,40,3,2024-05-03,CUST2683,Amazon Pay,Canada
+TXN00470,Lipstick,Beauty,25,1,2024-08-09,CUST4200,PayPal,Nepal
+TXN00471,Microwave Oven,Home Appliances,200,4,2024-04-05,CUST2881,Gift Card,USA
+TXN00472,Adidas T-shirt,Fashion,35,2,2024-08-01,CUST3408,Credit Card,India
+TXN00473,Nike Running Shoes,Fashion,120,2,2024-09-18,CUST7359,Credit Card,India
+TXN00474,Foundation,Beauty,40,1,2024-06-23,CUST6926,Credit Card,Germany
+TXN00475,Adidas T-shirt,Fashion,35,2,2024-01-01,CUST9393,Gift Card,Canada
+TXN00476,Non-fiction Book,Books,20,1,2024-07-08,CUST8538,Credit Card,USA
+TXN00477,Foundation,Beauty,40,3,2024-09-13,CUST5887,Credit Card,Australia
+TXN00478,Adidas T-shirt,Fashion,35,5,2024-01-28,CUST1989,PayPal,Canada
+TXN00479,Levi’s Jeans,Fashion,70,2,2024-05-09,CUST5521,Amazon Pay,Japan
+TXN00480,Foundation,Beauty,40,1,2024-04-05,CUST9427,Credit Card,USA
+TXN00481,Samsung Galaxy S21,Electronics,799,4,2024-09-11,CUST1082,Amazon Pay,Germany
+TXN00482,Dumbbells,Sports,50,4,2023-12-13,CUST9330,Credit Card,Japan
+TXN00483,Lipstick,Beauty,25,4,2024-03-14,CUST2027,PayPal,Germany
+TXN00484,iPhone 13,Electronics,999,3,2024-07-16,CUST3319,PayPal,Nepal
+TXN00485,Microwave Oven,Home Appliances,200,1,2024-10-13,CUST5880,Debit Card,USA
+TXN00486,MacBook Pro,Computers,1499,1,2023-12-17,CUST6697,Credit Card,USA
+TXN00487,Electric Kettle,Home Appliances,30,4,2024-01-10,CUST4830,PayPal,Japan
+TXN00488,Foundation,Beauty,40,4,2024-09-07,CUST3232,PayPal,Canada
+TXN00489,Yoga Mat,Sports,25,1,2024-09-05,CUST3951,PayPal,Australia
+TXN00490,Nike Running Shoes,Fashion,120,5,2024-08-03,CUST8172,Debit Card,Germany
+TXN00491,Acoustic Guitar,Musical Instruments,250,1,2023-10-26,CUST5859,Debit Card,Australia
+TXN00492,iPhone 13,Electronics,999,4,2024-08-18,CUST3460,Gift Card,Canada
+TXN00493,Samsung Galaxy S21,Electronics,799,5,2024-01-09,CUST1365,Credit Card,Japan
+TXN00494,Nike Running Shoes,Fashion,120,4,2023-11-03,CUST3258,Gift Card,Nepal
+TXN00495,Sony Headphones,Electronics,199,1,2024-02-25,CUST3131,Gift Card,Canada
+TXN00496,Microwave Oven,Home Appliances,200,4,2024-03-03,CUST9450,Amazon Pay,Nepal
+TXN00497,Electric Guitar,Musical Instruments,400,5,2024-08-12,CUST9748,Gift Card,Japan
+TXN00498,Adidas T-shirt,Fashion,35,5,2023-11-30,CUST4496,Credit Card,Canada
+TXN00499,Foundation,Beauty,40,1,2024-02-12,CUST4904,Credit Card,UK
+TXN00500,Electric Guitar,Musical Instruments,400,5,2024-04-10,CUST2437,Debit Card,Nepal
+TXN00501,Acoustic Guitar,Musical Instruments,250,2,2024-05-13,CUST8489,Gift Card,USA
+TXN00502,Fiction Book,Books,15,5,2024-09-21,CUST7811,Amazon Pay,USA
+TXN00503,Samsung Galaxy S21,Electronics,799,3,2023-12-28,CUST2065,PayPal,Japan
+TXN00504,Blender,Home Appliances,50,5,2024-01-28,CUST3425,Amazon Pay,India
+TXN00505,MacBook Pro,Computers,1499,4,2024-05-03,CUST9504,Gift Card,Canada
+TXN00506,Dumbbells,Sports,50,2,2024-09-27,CUST9460,Gift Card,Australia
+TXN00507,Vacuum Cleaner,Home Appliances,150,2,2024-09-17,CUST3842,Debit Card,UK
+TXN00508,Nike Running Shoes,Fashion,120,3,2023-12-06,CUST6095,Debit Card,India
+TXN00509,MacBook Pro,Computers,1499,4,2024-09-13,CUST7316,PayPal,Germany
+TXN00510,Acoustic Guitar,Musical Instruments,250,1,2024-02-23,CUST1343,PayPal,Germany
+TXN00511,Electric Guitar,Musical Instruments,400,4,2024-04-06,CUST1199,Gift Card,USA
+TXN00512,iPhone 13,Electronics,999,1,2024-09-22,CUST9544,Credit Card,Japan
+TXN00513,Levi’s Jeans,Fashion,70,4,2023-10-22,CUST6926,Gift Card,Germany
+TXN00514,Dumbbells,Sports,50,5,2023-12-15,CUST2183,Gift Card,UK
+TXN00515,Yoga Mat,Sports,25,5,2023-11-07,CUST6900,Credit Card,Japan
+TXN00516,iPhone 13,Electronics,999,5,2023-11-15,CUST9336,Debit Card,USA
+TXN00517,Samsung Galaxy S21,Electronics,799,1,2024-08-21,CUST4822,Gift Card,UK
+TXN00518,iPhone 13,Electronics,999,2,2024-03-09,CUST2006,Debit Card,Japan
+TXN00519,Levi’s Jeans,Fashion,70,2,2023-10-29,CUST8813,Credit Card,Canada
+TXN00520,Foundation,Beauty,40,4,2024-06-02,CUST4472,PayPal,USA
+TXN00521,Vacuum Cleaner,Home Appliances,150,4,2024-01-05,CUST3652,Credit Card,Canada
+TXN00522,Sony Headphones,Electronics,199,5,2024-09-29,CUST2629,Credit Card,Nepal
+TXN00523,Adidas T-shirt,Fashion,35,3,2023-11-25,CUST1229,Gift Card,UK
+TXN00524,Dell Laptop,Computers,1099,4,2024-09-12,CUST2917,Credit Card,Japan
+TXN00525,Electric Guitar,Musical Instruments,400,3,2024-08-05,CUST1420,PayPal,USA
+TXN00526,Lipstick,Beauty,25,5,2024-05-22,CUST4786,Credit Card,Australia
+TXN00527,iPhone 13,Electronics,999,5,2024-07-14,CUST6324,Gift Card,Japan
+TXN00528,Levi’s Jeans,Fashion,70,5,2024-03-13,CUST3496,Debit Card,Japan
+TXN00529,iPhone 13,Electronics,999,5,2024-04-04,CUST6662,Gift Card,Japan
+TXN00530,Electric Guitar,Musical Instruments,400,2,2024-02-10,CUST2909,Debit Card,Canada
+TXN00531,Lipstick,Beauty,25,1,2024-06-15,CUST7317,PayPal,Nepal
+TXN00532,Blender,Home Appliances,50,4,2024-10-12,CUST5447,Credit Card,Canada
+TXN00533,Yoga Mat,Sports,25,4,2023-11-01,CUST5702,Amazon Pay,USA
+TXN00534,Nike Running Shoes,Fashion,120,2,2024-09-14,CUST7698,Gift Card,Germany
+TXN00535,Nike Running Shoes,Fashion,120,4,2023-11-25,CUST2531,Amazon Pay,Australia
+TXN00536,Lipstick,Beauty,25,4,2024-02-17,CUST8210,PayPal,USA
+TXN00537,MacBook Pro,Computers,1499,1,2024-03-01,CUST8317,Amazon Pay,Germany
+TXN00538,Dumbbells,Sports,50,3,2024-05-14,CUST2037,Credit Card,Japan
+TXN00539,Acoustic Guitar,Musical Instruments,250,5,2024-04-25,CUST5377,Credit Card,Nepal
+TXN00540,Lipstick,Beauty,25,4,2024-08-31,CUST4982,PayPal,India
+TXN00541,Dell Laptop,Computers,1099,2,2024-08-13,CUST2435,Gift Card,Germany
+TXN00542,Non-fiction Book,Books,20,1,2024-01-15,CUST1892,Credit Card,Nepal
+TXN00543,Microwave Oven,Home Appliances,200,4,2024-06-15,CUST9857,Amazon Pay,India
+TXN00544,Microwave Oven,Home Appliances,200,4,2024-05-12,CUST9166,Gift Card,Nepal
+TXN00545,Samsung Galaxy S21,Electronics,799,3,2023-11-08,CUST4604,Debit Card,India
+TXN00546,Dumbbells,Sports,50,2,2024-02-05,CUST3303,PayPal,Germany
+TXN00547,Samsung Galaxy S21,Electronics,799,1,2024-09-09,CUST9474,Credit Card,USA
+TXN00548,Sony Headphones,Electronics,199,2,2024-03-18,CUST3033,Gift Card,Nepal
+TXN00549,Dumbbells,Sports,50,5,2024-07-06,CUST7619,Debit Card,Germany
+TXN00550,Adidas T-shirt,Fashion,35,3,2024-02-25,CUST9554,Debit Card,UK
+TXN00551,Electric Kettle,Home Appliances,30,4,2024-06-20,CUST5679,Debit Card,India
+TXN00552,Vacuum Cleaner,Home Appliances,150,5,2024-08-13,CUST1302,Amazon Pay,India
+TXN00553,Dumbbells,Sports,50,3,2024-04-19,CUST3521,Debit Card,Germany
+TXN00554,Acoustic Guitar,Musical Instruments,250,4,2024-10-10,CUST1670,Amazon Pay,India
+TXN00555,iPhone 13,Electronics,999,1,2023-11-11,CUST9013,Gift Card,USA
+TXN00556,Dell Laptop,Computers,1099,2,2024-01-18,CUST2126,Debit Card,USA
+TXN00557,Levi’s Jeans,Fashion,70,1,2024-09-11,CUST6732,Debit Card,Canada
+TXN00558,Samsung Galaxy S21,Electronics,799,4,2024-07-14,CUST6525,Debit Card,Germany
+TXN00559,Yoga Mat,Sports,25,1,2024-08-10,CUST8556,PayPal,USA
+TXN00560,Adidas T-shirt,Fashion,35,4,2024-08-04,CUST8326,PayPal,India
+TXN00561,Foundation,Beauty,40,1,2024-06-26,CUST3936,Gift Card,Nepal
+TXN00562,Non-fiction Book,Books,20,5,2024-08-01,CUST3276,Credit Card,Japan
+TXN00563,MacBook Pro,Computers,1499,3,2023-11-04,CUST4692,Debit Card,Germany
+TXN00564,Foundation,Beauty,40,3,2023-12-07,CUST2980,Credit Card,Nepal
+TXN00565,Microwave Oven,Home Appliances,200,3,2024-06-23,CUST3414,Debit Card,Germany
+TXN00566,Fiction Book,Books,15,3,2024-06-17,CUST7402,PayPal,Nepal
+TXN00567,Fiction Book,Books,15,5,2024-05-17,CUST9877,Gift Card,India
+TXN00568,Yoga Mat,Sports,25,4,2024-06-25,CUST1268,PayPal,UK
+TXN00569,Non-fiction Book,Books,20,4,2024-03-26,CUST1666,Credit Card,Germany
+TXN00570,Lipstick,Beauty,25,4,2024-07-15,CUST3805,Gift Card,UK
+TXN00571,Nike Running Shoes,Fashion,120,2,2024-04-06,CUST5353,Debit Card,Australia
+TXN00572,Acoustic Guitar,Musical Instruments,250,1,2024-08-24,CUST3952,Amazon Pay,India
+TXN00573,Vacuum Cleaner,Home Appliances,150,3,2024-04-16,CUST5778,Gift Card,Nepal
+TXN00574,Acoustic Guitar,Musical Instruments,250,1,2023-11-13,CUST1382,Credit Card,Canada
+TXN00575,Dumbbells,Sports,50,4,2024-10-01,CUST3375,Amazon Pay,India
+TXN00576,Dell Laptop,Computers,1099,5,2024-01-20,CUST2248,Gift Card,Nepal
+TXN00577,Electric Guitar,Musical Instruments,400,4,2024-07-07,CUST5927,Credit Card,India
+TXN00578,Adidas T-shirt,Fashion,35,5,2024-09-17,CUST5545,Gift Card,Nepal
+TXN00579,Levi’s Jeans,Fashion,70,1,2024-09-02,CUST3739,Gift Card,Germany
+TXN00580,Electric Kettle,Home Appliances,30,1,2023-12-25,CUST3795,Credit Card,Canada
+TXN00581,Yoga Mat,Sports,25,1,2024-07-14,CUST8372,Amazon Pay,India
+TXN00582,Non-fiction Book,Books,20,2,2024-08-16,CUST5521,Gift Card,Nepal
+TXN00583,Fiction Book,Books,15,3,2024-08-23,CUST8570,Debit Card,Canada
+TXN00584,Vacuum Cleaner,Home Appliances,150,1,2024-07-11,CUST6148,Credit Card,India
+TXN00585,Microwave Oven,Home Appliances,200,3,2024-07-22,CUST8026,Credit Card,Canada
+TXN00586,Yoga Mat,Sports,25,4,2024-05-02,CUST9700,Credit Card,Canada
+TXN00587,Levi’s Jeans,Fashion,70,2,2023-12-12,CUST6888,Credit Card,Canada
+TXN00588,Electric Kettle,Home Appliances,30,2,2024-08-02,CUST5888,Debit Card,Australia
+TXN00589,Nike Running Shoes,Fashion,120,3,2024-06-30,CUST9910,Credit Card,Nepal
+TXN00590,Acoustic Guitar,Musical Instruments,250,2,2024-07-23,CUST4360,Amazon Pay,USA
+TXN00591,Blender,Home Appliances,50,1,2024-06-12,CUST6867,PayPal,UK
+TXN00592,Adidas T-shirt,Fashion,35,4,2024-09-22,CUST2799,Amazon Pay,India
+TXN00593,Acoustic Guitar,Musical Instruments,250,1,2024-03-28,CUST5870,Credit Card,UK
+TXN00594,Microwave Oven,Home Appliances,200,1,2024-04-30,CUST1467,Credit Card,Nepal
+TXN00595,Samsung Galaxy S21,Electronics,799,3,2024-03-27,CUST8033,Credit Card,Nepal
+TXN00596,Acoustic Guitar,Musical Instruments,250,1,2024-07-10,CUST3551,Gift Card,Canada
+TXN00597,Nike Running Shoes,Fashion,120,1,2024-07-28,CUST4746,Debit Card,India
+TXN00598,iPhone 13,Electronics,999,1,2024-06-13,CUST8163,Amazon Pay,Canada
+TXN00599,Lipstick,Beauty,25,2,2024-07-17,CUST5496,PayPal,Canada
+TXN00600,Dell Laptop,Computers,1099,3,2023-12-13,CUST5046,Credit Card,Germany
+TXN00601,Dell Laptop,Computers,1099,1,2024-01-11,CUST6007,Gift Card,USA
+TXN00602,Electric Kettle,Home Appliances,30,1,2024-02-03,CUST1289,Credit Card,Australia
+TXN00603,Sony Headphones,Electronics,199,1,2024-09-23,CUST7708,Gift Card,Germany
+TXN00604,Fiction Book,Books,15,1,2024-07-23,CUST3608,Credit Card,Germany
+TXN00605,Acoustic Guitar,Musical Instruments,250,1,2024-07-07,CUST3405,Gift Card,Nepal
+TXN00606,Electric Kettle,Home Appliances,30,5,2023-10-26,CUST6809,Amazon Pay,Nepal
+TXN00607,Adidas T-shirt,Fashion,35,1,2024-06-04,CUST9610,Gift Card,Australia
+TXN00608,Levi’s Jeans,Fashion,70,3,2024-05-19,CUST1165,PayPal,Nepal
+TXN00609,Sony Headphones,Electronics,199,1,2024-02-22,CUST7497,Credit Card,UK
+TXN00610,iPhone 13,Electronics,999,2,2024-05-11,CUST9853,PayPal,Canada
+TXN00611,Vacuum Cleaner,Home Appliances,150,3,2024-01-07,CUST3201,Gift Card,UK
+TXN00612,Electric Kettle,Home Appliances,30,1,2023-11-30,CUST7749,Gift Card,USA
+TXN00613,Blender,Home Appliances,50,1,2023-11-21,CUST3138,Gift Card,Nepal
+TXN00614,Levi’s Jeans,Fashion,70,5,2024-03-13,CUST9284,Amazon Pay,Nepal
+TXN00615,Lipstick,Beauty,25,1,2024-08-07,CUST4898,Debit Card,Nepal
+TXN00616,Fiction Book,Books,15,4,2023-11-24,CUST2624,PayPal,UK
+TXN00617,iPhone 13,Electronics,999,4,2024-06-21,CUST2941,Amazon Pay,Germany
+TXN00618,Electric Guitar,Musical Instruments,400,2,2023-11-08,CUST6849,Debit Card,UK
+TXN00619,Yoga Mat,Sports,25,3,2024-02-17,CUST2368,Debit Card,Australia
+TXN00620,Microwave Oven,Home Appliances,200,2,2024-04-05,CUST6518,Gift Card,USA
+TXN00621,Dumbbells,Sports,50,1,2024-09-17,CUST7051,PayPal,Germany
+TXN00622,Non-fiction Book,Books,20,5,2023-11-23,CUST1608,Credit Card,Nepal
+TXN00623,Adidas T-shirt,Fashion,35,5,2023-11-25,CUST8395,Debit Card,Australia
+TXN00624,MacBook Pro,Computers,1499,2,2024-07-08,CUST3698,Debit Card,Japan
+TXN00625,iPhone 13,Electronics,999,4,2024-09-08,CUST8433,Debit Card,Japan
+TXN00626,Dell Laptop,Computers,1099,1,2024-06-16,CUST3381,Gift Card,India
+TXN00627,Blender,Home Appliances,50,5,2024-06-03,CUST5407,Credit Card,Canada
+TXN00628,Dumbbells,Sports,50,5,2024-02-15,CUST5493,Credit Card,Canada
+TXN00629,Levi’s Jeans,Fashion,70,4,2023-12-13,CUST3311,Gift Card,UK
+TXN00630,Sony Headphones,Electronics,199,5,2023-10-28,CUST7856,PayPal,USA
+TXN00631,Levi’s Jeans,Fashion,70,2,2024-04-11,CUST5837,PayPal,Australia
+TXN00632,Lipstick,Beauty,25,1,2023-12-05,CUST2729,Debit Card,Nepal
+TXN00633,MacBook Pro,Computers,1499,5,2024-02-08,CUST6709,PayPal,Canada
+TXN00634,Dell Laptop,Computers,1099,1,2023-12-19,CUST1022,Gift Card,Nepal
+TXN00635,Samsung Galaxy S21,Electronics,799,2,2024-08-29,CUST4878,Amazon Pay,Canada
+TXN00636,Levi’s Jeans,Fashion,70,4,2024-07-22,CUST7997,Credit Card,Nepal
+TXN00637,Microwave Oven,Home Appliances,200,5,2024-03-19,CUST4763,Debit Card,India
+TXN00638,Dumbbells,Sports,50,1,2024-04-29,CUST2475,Amazon Pay,India
+TXN00639,Levi’s Jeans,Fashion,70,2,2023-12-24,CUST9952,Gift Card,India
+TXN00640,Acoustic Guitar,Musical Instruments,250,3,2024-03-20,CUST4683,Gift Card,Nepal
+TXN00641,Foundation,Beauty,40,3,2024-08-20,CUST4890,Credit Card,USA
+TXN00642,Yoga Mat,Sports,25,2,2024-08-08,CUST3472,Amazon Pay,Japan
+TXN00643,Sony Headphones,Electronics,199,4,2024-03-26,CUST9920,Gift Card,Germany
+TXN00644,Dell Laptop,Computers,1099,1,2024-03-03,CUST6778,Gift Card,Australia
+TXN00645,Electric Kettle,Home Appliances,30,5,2023-12-31,CUST3374,Credit Card,Nepal
+TXN00646,Dumbbells,Sports,50,4,2024-06-09,CUST5250,Debit Card,Nepal
+TXN00647,Dell Laptop,Computers,1099,1,2024-04-29,CUST8083,Amazon Pay,Japan
+TXN00648,Levi’s Jeans,Fashion,70,2,2024-05-13,CUST5686,Gift Card,Australia
+TXN00649,Blender,Home Appliances,50,5,2024-08-13,CUST2456,Amazon Pay,UK
+TXN00650,Fiction Book,Books,15,2,2023-12-20,CUST7492,Gift Card,UK
+TXN00651,Lipstick,Beauty,25,3,2024-08-08,CUST7303,PayPal,India
+TXN00652,Non-fiction Book,Books,20,2,2023-12-11,CUST7172,Gift Card,USA
+TXN00653,Microwave Oven,Home Appliances,200,1,2023-11-29,CUST7176,Debit Card,USA
+TXN00654,Electric Guitar,Musical Instruments,400,1,2024-05-27,CUST2594,Credit Card,Canada
+TXN00655,Vacuum Cleaner,Home Appliances,150,5,2024-08-01,CUST2057,Debit Card,Nepal
+TXN00656,Dell Laptop,Computers,1099,4,2024-10-02,CUST8292,Debit Card,USA
+TXN00657,MacBook Pro,Computers,1499,2,2024-08-10,CUST6566,Credit Card,India
+TXN00658,Microwave Oven,Home Appliances,200,2,2024-01-23,CUST6574,Credit Card,Japan
+TXN00659,Lipstick,Beauty,25,1,2024-06-12,CUST5689,Credit Card,Nepal
+TXN00660,Dumbbells,Sports,50,1,2024-03-22,CUST4550,PayPal,USA
+TXN00661,Adidas T-shirt,Fashion,35,5,2023-12-23,CUST4586,PayPal,Japan
+TXN00662,Sony Headphones,Electronics,199,3,2024-02-04,CUST3879,Credit Card,India
+TXN00663,Electric Guitar,Musical Instruments,400,5,2024-09-12,CUST3951,Gift Card,USA
+TXN00664,Microwave Oven,Home Appliances,200,3,2023-12-17,CUST2387,Debit Card,Australia
+TXN00665,iPhone 13,Electronics,999,5,2023-12-07,CUST7255,Gift Card,India
+TXN00666,Vacuum Cleaner,Home Appliances,150,4,2024-09-24,CUST7002,Amazon Pay,Nepal
+TXN00667,Vacuum Cleaner,Home Appliances,150,1,2024-06-10,CUST9356,Credit Card,Germany
+TXN00668,Lipstick,Beauty,25,1,2024-04-02,CUST4201,Gift Card,India
+TXN00669,Non-fiction Book,Books,20,2,2024-02-02,CUST3014,Gift Card,Germany
+TXN00670,Dell Laptop,Computers,1099,1,2024-09-04,CUST6414,Gift Card,Germany
+TXN00671,Samsung Galaxy S21,Electronics,799,5,2023-11-07,CUST1514,Credit Card,Germany
+TXN00672,Yoga Mat,Sports,25,4,2023-12-25,CUST5833,Debit Card,Germany
+TXN00673,Fiction Book,Books,15,2,2024-02-25,CUST3758,Gift Card,UK
+TXN00674,Nike Running Shoes,Fashion,120,4,2024-04-16,CUST8447,PayPal,UK
+TXN00675,Microwave Oven,Home Appliances,200,4,2024-04-08,CUST7801,Credit Card,Japan
+TXN00676,Vacuum Cleaner,Home Appliances,150,2,2024-03-15,CUST8179,PayPal,India
+TXN00677,Adidas T-shirt,Fashion,35,1,2023-12-25,CUST1180,PayPal,Japan
+TXN00678,Lipstick,Beauty,25,2,2024-09-09,CUST8290,Gift Card,India
+TXN00679,Lipstick,Beauty,25,4,2024-10-07,CUST5108,Gift Card,USA
+TXN00680,Levi’s Jeans,Fashion,70,4,2023-11-02,CUST4402,Amazon Pay,Japan
+TXN00681,Vacuum Cleaner,Home Appliances,150,1,2024-09-10,CUST6285,Credit Card,Canada
+TXN00682,Lipstick,Beauty,25,2,2024-05-01,CUST7647,Debit Card,Germany
+TXN00683,MacBook Pro,Computers,1499,1,2023-12-25,CUST1447,Gift Card,UK
+TXN00684,Lipstick,Beauty,25,5,2024-05-01,CUST6830,Debit Card,Canada
+TXN00685,Electric Guitar,Musical Instruments,400,1,2024-03-28,CUST4831,Amazon Pay,India
+TXN00686,Electric Guitar,Musical Instruments,400,1,2024-02-19,CUST5141,PayPal,Canada
+TXN00687,Dell Laptop,Computers,1099,2,2024-01-18,CUST6905,Gift Card,Germany
+TXN00688,MacBook Pro,Computers,1499,1,2024-03-02,CUST8091,Gift Card,Japan
+TXN00689,Levi’s Jeans,Fashion,70,5,2024-09-04,CUST8511,Amazon Pay,Germany
+TXN00690,Nike Running Shoes,Fashion,120,4,2023-12-04,CUST7192,Gift Card,USA
+TXN00691,iPhone 13,Electronics,999,1,2023-10-27,CUST1891,PayPal,Canada
+TXN00692,Dell Laptop,Computers,1099,5,2024-02-23,CUST4392,PayPal,Canada
+TXN00693,Samsung Galaxy S21,Electronics,799,4,2024-06-08,CUST7724,PayPal,Canada
+TXN00694,Microwave Oven,Home Appliances,200,3,2023-11-30,CUST7313,Amazon Pay,Canada
+TXN00695,Blender,Home Appliances,50,5,2024-06-05,CUST6902,Debit Card,UK
+TXN00696,Yoga Mat,Sports,25,1,2024-06-18,CUST8699,Credit Card,USA
+TXN00697,Acoustic Guitar,Musical Instruments,250,5,2024-06-20,CUST8013,Gift Card,Japan
+TXN00698,Microwave Oven,Home Appliances,200,2,2024-10-04,CUST3055,Amazon Pay,India
+TXN00699,Electric Guitar,Musical Instruments,400,4,2024-05-25,CUST6601,Amazon Pay,Australia
+TXN00700,Foundation,Beauty,40,4,2023-12-19,CUST8986,Credit Card,Nepal
+TXN00701,Electric Kettle,Home Appliances,30,3,2023-12-28,CUST4277,PayPal,Nepal
+TXN00702,Dell Laptop,Computers,1099,5,2023-11-09,CUST1165,Amazon Pay,USA
+TXN00703,Dumbbells,Sports,50,3,2024-03-30,CUST3118,Amazon Pay,Canada
+TXN00704,Microwave Oven,Home Appliances,200,2,2024-06-30,CUST9960,Amazon Pay,Germany
+TXN00705,Acoustic Guitar,Musical Instruments,250,4,2024-08-24,CUST9332,Amazon Pay,Australia
+TXN00706,Electric Guitar,Musical Instruments,400,4,2024-06-03,CUST5685,PayPal,UK
+TXN00707,Fiction Book,Books,15,5,2024-10-10,CUST2741,Debit Card,USA
+TXN00708,Electric Guitar,Musical Instruments,400,5,2024-09-08,CUST2660,Gift Card,UK
+TXN00709,Blender,Home Appliances,50,5,2024-05-05,CUST1034,PayPal,Japan
+TXN00710,Sony Headphones,Electronics,199,1,2024-04-12,CUST6700,Debit Card,UK
+TXN00711,Acoustic Guitar,Musical Instruments,250,3,2024-03-07,CUST1861,Debit Card,Canada
+TXN00712,MacBook Pro,Computers,1499,2,2023-12-26,CUST8652,Amazon Pay,USA
+TXN00713,Samsung Galaxy S21,Electronics,799,1,2024-03-21,CUST1235,Amazon Pay,Canada
+TXN00714,Levi’s Jeans,Fashion,70,2,2024-03-02,CUST4923,Gift Card,UK
+TXN00715,MacBook Pro,Computers,1499,2,2024-10-06,CUST7161,PayPal,UK
+TXN00716,Acoustic Guitar,Musical Instruments,250,3,2023-12-05,CUST7050,Amazon Pay,Australia
+TXN00717,Sony Headphones,Electronics,199,3,2023-12-09,CUST4240,PayPal,UK
+TXN00718,Samsung Galaxy S21,Electronics,799,2,2024-06-22,CUST5079,PayPal,Germany
+TXN00719,Vacuum Cleaner,Home Appliances,150,1,2024-06-06,CUST8496,Amazon Pay,Canada
+TXN00720,Nike Running Shoes,Fashion,120,3,2024-03-18,CUST5431,PayPal,UK
+TXN00721,Sony Headphones,Electronics,199,2,2024-03-22,CUST5705,Debit Card,Japan
+TXN00722,MacBook Pro,Computers,1499,2,2024-10-01,CUST1315,Credit Card,UK
+TXN00723,Yoga Mat,Sports,25,5,2024-10-11,CUST7948,Debit Card,Australia
+TXN00724,Lipstick,Beauty,25,2,2023-11-07,CUST3078,Gift Card,India
+TXN00725,Acoustic Guitar,Musical Instruments,250,4,2024-02-06,CUST1079,Gift Card,India
+TXN00726,Vacuum Cleaner,Home Appliances,150,4,2023-11-22,CUST7537,Credit Card,Canada
+TXN00727,Dumbbells,Sports,50,4,2024-03-31,CUST7424,PayPal,Nepal
+TXN00728,Blender,Home Appliances,50,5,2023-12-17,CUST7884,Credit Card,UK
+TXN00729,Electric Guitar,Musical Instruments,400,2,2024-10-14,CUST2070,Credit Card,Japan
+TXN00730,Lipstick,Beauty,25,5,2024-10-18,CUST2938,Amazon Pay,Japan
+TXN00731,Nike Running Shoes,Fashion,120,4,2024-07-16,CUST4580,Amazon Pay,UK
+TXN00732,Acoustic Guitar,Musical Instruments,250,5,2024-03-14,CUST8726,Amazon Pay,UK
+TXN00733,Blender,Home Appliances,50,3,2024-07-13,CUST7248,Debit Card,USA
+TXN00734,Microwave Oven,Home Appliances,200,4,2024-08-29,CUST8586,Amazon Pay,Australia
+TXN00735,Samsung Galaxy S21,Electronics,799,2,2024-03-04,CUST7606,PayPal,Canada
+TXN00736,Dell Laptop,Computers,1099,2,2024-07-08,CUST7011,Gift Card,Japan
+TXN00737,Samsung Galaxy S21,Electronics,799,1,2024-06-28,CUST8596,Amazon Pay,Germany
+TXN00738,Dell Laptop,Computers,1099,2,2023-12-21,CUST7171,Amazon Pay,Australia
+TXN00739,Dell Laptop,Computers,1099,1,2023-11-29,CUST3045,Debit Card,India
+TXN00740,Levi’s Jeans,Fashion,70,1,2024-08-13,CUST3566,PayPal,Japan
+TXN00741,Sony Headphones,Electronics,199,3,2024-07-08,CUST1293,Debit Card,Nepal
+TXN00742,Acoustic Guitar,Musical Instruments,250,1,2023-11-22,CUST4869,Credit Card,Germany
+TXN00743,Samsung Galaxy S21,Electronics,799,5,2024-04-25,CUST7920,PayPal,Australia
+TXN00744,Electric Guitar,Musical Instruments,400,1,2023-12-04,CUST7963,Gift Card,Nepal
+TXN00745,Dumbbells,Sports,50,3,2024-10-01,CUST8245,Amazon Pay,Japan
+TXN00746,Adidas T-shirt,Fashion,35,4,2024-06-07,CUST1598,PayPal,Australia
+TXN00747,Electric Kettle,Home Appliances,30,1,2024-07-15,CUST4653,Gift Card,Germany
+TXN00748,MacBook Pro,Computers,1499,1,2023-11-08,CUST9569,Debit Card,USA
+TXN00749,Blender,Home Appliances,50,3,2024-04-23,CUST1575,Credit Card,Canada
+TXN00750,Sony Headphones,Electronics,199,4,2024-06-21,CUST9291,Amazon Pay,Australia
+TXN00751,Foundation,Beauty,40,4,2024-07-28,CUST6965,Credit Card,Japan
+TXN00752,Dell Laptop,Computers,1099,1,2024-04-06,CUST6082,Debit Card,Nepal
+TXN00753,Nike Running Shoes,Fashion,120,3,2023-11-29,CUST9283,Debit Card,Australia
+TXN00754,Adidas T-shirt,Fashion,35,5,2024-01-11,CUST4584,Gift Card,USA
+TXN00755,Lipstick,Beauty,25,4,2024-10-12,CUST2256,PayPal,Japan
+TXN00756,Blender,Home Appliances,50,2,2024-03-25,CUST6345,PayPal,USA
+TXN00757,Samsung Galaxy S21,Electronics,799,1,2024-02-19,CUST8418,Credit Card,Japan
+TXN00758,Lipstick,Beauty,25,3,2024-03-11,CUST6737,Gift Card,India
+TXN00759,MacBook Pro,Computers,1499,5,2024-09-28,CUST1116,Credit Card,Germany
+TXN00760,Acoustic Guitar,Musical Instruments,250,3,2023-12-23,CUST4023,Credit Card,Canada
+TXN00761,Vacuum Cleaner,Home Appliances,150,3,2024-01-28,CUST2558,Credit Card,UK
+TXN00762,Dumbbells,Sports,50,2,2023-12-09,CUST2032,Credit Card,Canada
+TXN00763,Acoustic Guitar,Musical Instruments,250,4,2024-04-27,CUST6746,Credit Card,UK
+TXN00764,Electric Guitar,Musical Instruments,400,1,2024-07-01,CUST4069,Credit Card,USA
+TXN00765,Dell Laptop,Computers,1099,5,2024-01-04,CUST6531,Credit Card,Germany
+TXN00766,Samsung Galaxy S21,Electronics,799,2,2024-07-01,CUST2949,Debit Card,India
+TXN00767,Yoga Mat,Sports,25,4,2024-02-28,CUST8887,Gift Card,Australia
+TXN00768,Dumbbells,Sports,50,1,2024-04-15,CUST7774,Debit Card,USA
+TXN00769,Acoustic Guitar,Musical Instruments,250,2,2023-12-09,CUST9156,Debit Card,Japan
+TXN00770,Non-fiction Book,Books,20,5,2023-12-30,CUST2860,Amazon Pay,UK
+TXN00771,Dell Laptop,Computers,1099,4,2024-03-26,CUST5803,Amazon Pay,Nepal
+TXN00772,Microwave Oven,Home Appliances,200,5,2024-07-24,CUST2855,Credit Card,Japan
+TXN00773,Microwave Oven,Home Appliances,200,4,2024-07-24,CUST4050,Debit Card,Australia
+TXN00774,Vacuum Cleaner,Home Appliances,150,5,2024-04-27,CUST4353,PayPal,Japan
+TXN00775,Electric Kettle,Home Appliances,30,5,2024-10-14,CUST9958,Debit Card,Australia
+TXN00776,Blender,Home Appliances,50,3,2024-03-14,CUST7940,Credit Card,Australia
+TXN00777,Microwave Oven,Home Appliances,200,4,2024-03-21,CUST4966,PayPal,Nepal
+TXN00778,Levi’s Jeans,Fashion,70,2,2023-11-16,CUST9306,PayPal,Germany
+TXN00779,Fiction Book,Books,15,3,2023-11-25,CUST7927,PayPal,Japan
+TXN00780,Nike Running Shoes,Fashion,120,5,2024-08-18,CUST3959,Debit Card,India
+TXN00781,Adidas T-shirt,Fashion,35,2,2024-10-06,CUST4051,Debit Card,UK
+TXN00782,Yoga Mat,Sports,25,1,2024-05-01,CUST4793,PayPal,Australia
+TXN00783,Dell Laptop,Computers,1099,4,2024-01-11,CUST6482,Gift Card,Canada
+TXN00784,Yoga Mat,Sports,25,3,2024-07-29,CUST1041,Gift Card,Japan
+TXN00785,Microwave Oven,Home Appliances,200,2,2024-08-08,CUST9069,Credit Card,Canada
+TXN00786,Microwave Oven,Home Appliances,200,1,2024-05-07,CUST3315,Debit Card,USA
+TXN00787,Fiction Book,Books,15,4,2023-10-22,CUST5456,Debit Card,UK
+TXN00788,Sony Headphones,Electronics,199,2,2024-04-24,CUST9019,Debit Card,USA
+TXN00789,Levi’s Jeans,Fashion,70,5,2024-07-20,CUST8660,Credit Card,Germany
+TXN00790,Electric Guitar,Musical Instruments,400,4,2024-09-24,CUST1105,PayPal,USA
+TXN00791,MacBook Pro,Computers,1499,5,2023-12-12,CUST7402,Gift Card,Japan
+TXN00792,Vacuum Cleaner,Home Appliances,150,4,2024-06-14,CUST3654,Gift Card,Nepal
+TXN00793,Acoustic Guitar,Musical Instruments,250,5,2024-04-13,CUST2671,Amazon Pay,Nepal
+TXN00794,Dumbbells,Sports,50,4,2023-12-06,CUST8213,Gift Card,UK
+TXN00795,Sony Headphones,Electronics,199,2,2024-07-22,CUST3560,PayPal,Australia
+TXN00796,iPhone 13,Electronics,999,3,2024-04-05,CUST4379,Debit Card,Canada
+TXN00797,Dell Laptop,Computers,1099,1,2024-07-03,CUST7606,Gift Card,Germany
+TXN00798,Vacuum Cleaner,Home Appliances,150,3,2024-05-17,CUST8451,PayPal,India
+TXN00799,Yoga Mat,Sports,25,4,2023-12-29,CUST9415,Amazon Pay,Nepal
+TXN00800,Adidas T-shirt,Fashion,35,4,2023-10-27,CUST7186,PayPal,USA
+TXN00801,iPhone 13,Electronics,999,4,2024-07-15,CUST8874,PayPal,Australia
+TXN00802,MacBook Pro,Computers,1499,1,2024-04-04,CUST5438,Debit Card,Japan
+TXN00803,Yoga Mat,Sports,25,4,2024-06-16,CUST4569,Amazon Pay,UK
+TXN00804,Lipstick,Beauty,25,1,2024-05-04,CUST5844,PayPal,Nepal
+TXN00805,Electric Guitar,Musical Instruments,400,3,2023-12-29,CUST5891,Gift Card,Nepal
+TXN00806,Non-fiction Book,Books,20,5,2024-04-21,CUST3794,Credit Card,Canada
+TXN00807,Nike Running Shoes,Fashion,120,5,2024-02-01,CUST5991,PayPal,India
+TXN00808,MacBook Pro,Computers,1499,4,2024-09-01,CUST3232,Debit Card,Japan
+TXN00809,Nike Running Shoes,Fashion,120,5,2024-10-11,CUST4222,Gift Card,Japan
+TXN00810,Levi’s Jeans,Fashion,70,2,2023-12-25,CUST6903,Amazon Pay,Nepal
+TXN00811,Sony Headphones,Electronics,199,5,2024-07-17,CUST5962,Gift Card,USA
+TXN00812,Adidas T-shirt,Fashion,35,3,2024-10-06,CUST1273,Debit Card,Nepal
+TXN00813,Vacuum Cleaner,Home Appliances,150,1,2024-06-18,CUST1216,PayPal,Australia
+TXN00814,Dell Laptop,Computers,1099,5,2024-05-29,CUST5363,PayPal,Germany
+TXN00815,Electric Guitar,Musical Instruments,400,3,2024-05-11,CUST3123,Amazon Pay,USA
+TXN00816,Fiction Book,Books,15,1,2023-12-28,CUST3881,Debit Card,Japan
+TXN00817,Vacuum Cleaner,Home Appliances,150,2,2023-11-29,CUST6063,Gift Card,Japan
+TXN00818,Microwave Oven,Home Appliances,200,1,2023-11-23,CUST2110,PayPal,Australia
+TXN00819,Yoga Mat,Sports,25,5,2024-04-24,CUST2059,PayPal,USA
+TXN00820,Lipstick,Beauty,25,2,2024-03-30,CUST9057,Amazon Pay,USA
+TXN00821,Vacuum Cleaner,Home Appliances,150,5,2024-07-15,CUST8352,Debit Card,USA
+TXN00822,Dell Laptop,Computers,1099,1,2023-12-19,CUST9409,Gift Card,Japan
+TXN00823,Acoustic Guitar,Musical Instruments,250,5,2024-05-03,CUST4149,Amazon Pay,Canada
+TXN00824,Dell Laptop,Computers,1099,5,2024-06-14,CUST6197,PayPal,USA
+TXN00825,Samsung Galaxy S21,Electronics,799,1,2024-04-21,CUST2678,PayPal,Australia
+TXN00826,Vacuum Cleaner,Home Appliances,150,3,2024-05-11,CUST4190,PayPal,Nepal
+TXN00827,Fiction Book,Books,15,4,2024-09-09,CUST4044,Credit Card,Japan
+TXN00828,Levi’s Jeans,Fashion,70,2,2024-06-14,CUST6124,Debit Card,UK
+TXN00829,Blender,Home Appliances,50,1,2024-09-03,CUST1343,Credit Card,Nepal
+TXN00830,Electric Kettle,Home Appliances,30,2,2024-04-25,CUST1316,Credit Card,India
+TXN00831,Sony Headphones,Electronics,199,5,2024-05-12,CUST1846,PayPal,India
+TXN00832,Microwave Oven,Home Appliances,200,5,2023-12-15,CUST7959,Debit Card,USA
+TXN00833,Dumbbells,Sports,50,1,2024-03-16,CUST3210,PayPal,Germany
+TXN00834,Dell Laptop,Computers,1099,2,2024-08-15,CUST2718,Debit Card,Nepal
+TXN00835,Lipstick,Beauty,25,5,2024-02-29,CUST7416,Gift Card,UK
+TXN00836,MacBook Pro,Computers,1499,4,2024-07-11,CUST7721,Gift Card,Germany
+TXN00837,MacBook Pro,Computers,1499,3,2024-07-12,CUST8758,Credit Card,Nepal
+TXN00838,Electric Kettle,Home Appliances,30,1,2023-11-07,CUST7468,Debit Card,Germany
+TXN00839,Foundation,Beauty,40,1,2024-05-08,CUST4864,Amazon Pay,Australia
+TXN00840,Foundation,Beauty,40,4,2023-12-16,CUST1557,Gift Card,Australia
+TXN00841,Acoustic Guitar,Musical Instruments,250,3,2023-11-25,CUST5609,Credit Card,Nepal
+TXN00842,Samsung Galaxy S21,Electronics,799,1,2023-10-31,CUST5728,Debit Card,Germany
+TXN00843,Samsung Galaxy S21,Electronics,799,3,2024-09-30,CUST7011,Amazon Pay,Nepal
+TXN00844,Dell Laptop,Computers,1099,2,2024-07-05,CUST5403,PayPal,UK
+TXN00845,Dell Laptop,Computers,1099,3,2024-07-08,CUST4967,Amazon Pay,India
+TXN00846,Sony Headphones,Electronics,199,2,2024-10-06,CUST6933,Credit Card,Nepal
+TXN00847,Nike Running Shoes,Fashion,120,2,2024-05-04,CUST3033,Amazon Pay,India
+TXN00848,Vacuum Cleaner,Home Appliances,150,5,2024-05-28,CUST4869,Credit Card,Australia
+TXN00849,Electric Kettle,Home Appliances,30,5,2024-02-18,CUST5840,Amazon Pay,Germany
+TXN00850,Foundation,Beauty,40,4,2024-04-18,CUST2682,Amazon Pay,Germany
+TXN00851,Lipstick,Beauty,25,4,2023-10-24,CUST7243,Debit Card,Japan
+TXN00852,Electric Kettle,Home Appliances,30,3,2023-11-29,CUST6047,Gift Card,UK
+TXN00853,Adidas T-shirt,Fashion,35,1,2024-01-09,CUST5915,Gift Card,Japan
+TXN00854,Yoga Mat,Sports,25,5,2024-02-22,CUST4805,PayPal,Japan
+TXN00855,Nike Running Shoes,Fashion,120,2,2024-03-31,CUST6026,PayPal,USA
+TXN00856,MacBook Pro,Computers,1499,2,2024-10-19,CUST4868,Amazon Pay,UK
+TXN00857,Blender,Home Appliances,50,4,2024-09-15,CUST7247,Amazon Pay,UK
+TXN00858,Acoustic Guitar,Musical Instruments,250,1,2023-10-26,CUST9407,PayPal,UK
+TXN00859,Foundation,Beauty,40,1,2023-11-10,CUST1040,Credit Card,Germany
+TXN00860,iPhone 13,Electronics,999,4,2023-11-30,CUST4813,Gift Card,UK
+TXN00861,Acoustic Guitar,Musical Instruments,250,4,2024-01-13,CUST8032,Debit Card,USA
+TXN00862,Dell Laptop,Computers,1099,4,2024-09-21,CUST8142,Debit Card,USA
+TXN00863,Microwave Oven,Home Appliances,200,4,2024-09-27,CUST6186,Amazon Pay,UK
+TXN00864,Levi’s Jeans,Fashion,70,2,2023-12-18,CUST8816,Amazon Pay,Germany
+TXN00865,Adidas T-shirt,Fashion,35,4,2024-03-14,CUST5242,Credit Card,UK
+TXN00866,Blender,Home Appliances,50,4,2024-03-07,CUST2379,Credit Card,Germany
+TXN00867,Electric Kettle,Home Appliances,30,3,2024-06-29,CUST6125,Debit Card,Canada
+TXN00868,Vacuum Cleaner,Home Appliances,150,3,2023-11-17,CUST1795,Amazon Pay,USA
+TXN00869,Sony Headphones,Electronics,199,5,2024-02-03,CUST6737,Debit Card,Nepal
+TXN00870,iPhone 13,Electronics,999,1,2024-08-25,CUST5866,PayPal,Germany
+TXN00871,Sony Headphones,Electronics,199,1,2024-04-02,CUST4531,Debit Card,USA
+TXN00872,Lipstick,Beauty,25,3,2024-06-13,CUST7542,Credit Card,UK
+TXN00873,Sony Headphones,Electronics,199,4,2023-12-07,CUST1128,Credit Card,India
+TXN00874,Blender,Home Appliances,50,3,2024-02-16,CUST7490,Credit Card,Nepal
+TXN00875,MacBook Pro,Computers,1499,4,2024-03-20,CUST9536,PayPal,Germany
+TXN00876,Acoustic Guitar,Musical Instruments,250,1,2023-10-31,CUST2595,Credit Card,India
+TXN00877,Foundation,Beauty,40,3,2024-05-29,CUST4234,Amazon Pay,Germany
+TXN00878,Sony Headphones,Electronics,199,1,2024-05-17,CUST2194,Credit Card,Germany
+TXN00879,Foundation,Beauty,40,5,2024-09-11,CUST8169,PayPal,Nepal
+TXN00880,Electric Kettle,Home Appliances,30,1,2024-05-09,CUST6436,Credit Card,India
+TXN00881,iPhone 13,Electronics,999,5,2024-05-30,CUST1774,Amazon Pay,Germany
+TXN00882,Microwave Oven,Home Appliances,200,3,2024-02-24,CUST4098,Gift Card,UK
+TXN00883,MacBook Pro,Computers,1499,2,2024-09-15,CUST1113,Gift Card,USA
+TXN00884,Samsung Galaxy S21,Electronics,799,4,2024-01-20,CUST8608,Gift Card,UK
+TXN00885,iPhone 13,Electronics,999,3,2024-08-23,CUST3796,Gift Card,USA
+TXN00886,Adidas T-shirt,Fashion,35,3,2024-06-08,CUST1150,PayPal,USA
+TXN00887,Dell Laptop,Computers,1099,2,2024-01-27,CUST8806,Gift Card,Nepal
+TXN00888,Samsung Galaxy S21,Electronics,799,1,2024-09-10,CUST2829,Credit Card,Japan
+TXN00889,Blender,Home Appliances,50,3,2024-07-31,CUST2995,PayPal,India
+TXN00890,Nike Running Shoes,Fashion,120,4,2023-12-18,CUST1501,Gift Card,Canada
+TXN00891,iPhone 13,Electronics,999,3,2023-12-28,CUST9198,Gift Card,UK
+TXN00892,Dumbbells,Sports,50,1,2023-10-26,CUST6408,Gift Card,Germany
+TXN00893,MacBook Pro,Computers,1499,2,2024-05-19,CUST4382,Gift Card,India
+TXN00894,Samsung Galaxy S21,Electronics,799,3,2024-01-08,CUST1634,Amazon Pay,Australia
+TXN00895,Adidas T-shirt,Fashion,35,4,2024-07-24,CUST3165,Credit Card,India
+TXN00896,Fiction Book,Books,15,2,2024-10-06,CUST3938,Debit Card,Germany
+TXN00897,Microwave Oven,Home Appliances,200,3,2024-09-12,CUST1138,Amazon Pay,UK
+TXN00898,Sony Headphones,Electronics,199,3,2024-08-27,CUST7640,Gift Card,India
+TXN00899,Foundation,Beauty,40,2,2024-05-07,CUST3191,Amazon Pay,Germany
+TXN00900,Lipstick,Beauty,25,1,2024-07-14,CUST4214,Gift Card,Canada
+TXN00901,Blender,Home Appliances,50,5,2024-07-04,CUST3033,Debit Card,Australia
+TXN00902,Samsung Galaxy S21,Electronics,799,2,2024-05-09,CUST6720,Amazon Pay,Nepal
+TXN00903,Blender,Home Appliances,50,4,2024-07-14,CUST9354,Debit Card,Nepal
+TXN00904,Non-fiction Book,Books,20,4,2024-01-04,CUST6220,Gift Card,USA
+TXN00905,Levi’s Jeans,Fashion,70,3,2023-10-24,CUST5669,Amazon Pay,Japan
+TXN00906,Levi’s Jeans,Fashion,70,3,2024-04-26,CUST8735,Gift Card,USA
+TXN00907,Blender,Home Appliances,50,1,2024-04-20,CUST7895,Amazon Pay,Nepal
+TXN00908,Vacuum Cleaner,Home Appliances,150,3,2024-08-18,CUST3690,Debit Card,USA
+TXN00909,Fiction Book,Books,15,5,2024-05-16,CUST1372,PayPal,India
+TXN00910,Acoustic Guitar,Musical Instruments,250,2,2024-02-12,CUST3225,Credit Card,UK
+TXN00911,Fiction Book,Books,15,2,2024-04-22,CUST9263,PayPal,USA
+TXN00912,Yoga Mat,Sports,25,2,2024-05-13,CUST4481,Credit Card,Germany
+TXN00913,Foundation,Beauty,40,2,2024-06-09,CUST9415,PayPal,Germany
+TXN00914,Blender,Home Appliances,50,2,2024-04-04,CUST9801,Amazon Pay,USA
+TXN00915,Blender,Home Appliances,50,3,2023-12-11,CUST5052,Amazon Pay,Japan
+TXN00916,Electric Guitar,Musical Instruments,400,2,2024-07-17,CUST6593,Amazon Pay,Nepal
+TXN00917,Dell Laptop,Computers,1099,1,2024-10-03,CUST8543,Amazon Pay,Australia
+TXN00918,MacBook Pro,Computers,1499,4,2024-03-07,CUST7920,Credit Card,UK
+TXN00919,Non-fiction Book,Books,20,3,2024-04-28,CUST4279,PayPal,Canada
+TXN00920,Acoustic Guitar,Musical Instruments,250,1,2024-06-16,CUST9692,Amazon Pay,Japan
+TXN00921,Electric Guitar,Musical Instruments,400,5,2023-12-05,CUST4561,Amazon Pay,USA
+TXN00922,Acoustic Guitar,Musical Instruments,250,1,2024-02-06,CUST2120,Debit Card,Japan
+TXN00923,Dell Laptop,Computers,1099,4,2024-10-07,CUST7288,Credit Card,Germany
+TXN00924,Dumbbells,Sports,50,3,2024-01-21,CUST2418,Debit Card,Nepal
+TXN00925,Foundation,Beauty,40,3,2023-11-12,CUST7710,Debit Card,Japan
+TXN00926,Dell Laptop,Computers,1099,1,2023-11-17,CUST5713,Amazon Pay,Canada
+TXN00927,Samsung Galaxy S21,Electronics,799,1,2024-07-01,CUST2422,Credit Card,USA
+TXN00928,MacBook Pro,Computers,1499,5,2023-11-07,CUST3551,Credit Card,UK
+TXN00929,Fiction Book,Books,15,5,2024-07-02,CUST7045,Amazon Pay,UK
+TXN00930,Lipstick,Beauty,25,2,2024-05-24,CUST7680,Credit Card,USA
+TXN00931,Foundation,Beauty,40,1,2024-01-31,CUST8663,Gift Card,India
+TXN00932,MacBook Pro,Computers,1499,5,2024-01-27,CUST1690,Amazon Pay,USA
+TXN00933,Dell Laptop,Computers,1099,1,2024-07-20,CUST9270,Amazon Pay,India
+TXN00934,Samsung Galaxy S21,Electronics,799,3,2024-08-15,CUST7095,Credit Card,Australia
+TXN00935,Lipstick,Beauty,25,2,2024-04-06,CUST9465,PayPal,Canada
+TXN00936,MacBook Pro,Computers,1499,2,2023-10-26,CUST7233,Debit Card,Japan
+TXN00937,Dumbbells,Sports,50,5,2023-10-29,CUST9948,PayPal,Japan
+TXN00938,Lipstick,Beauty,25,2,2024-05-26,CUST5131,Amazon Pay,Australia
+TXN00939,Yoga Mat,Sports,25,4,2024-03-12,CUST1026,Amazon Pay,Canada
+TXN00940,Electric Kettle,Home Appliances,30,5,2024-08-08,CUST7078,Gift Card,Canada
+TXN00941,Non-fiction Book,Books,20,2,2024-03-04,CUST7214,Amazon Pay,UK
+TXN00942,Electric Kettle,Home Appliances,30,1,2024-02-06,CUST5418,Amazon Pay,Australia
+TXN00943,Microwave Oven,Home Appliances,200,4,2024-06-12,CUST2999,Amazon Pay,India
+TXN00944,Blender,Home Appliances,50,1,2023-11-14,CUST3756,Credit Card,Japan
+TXN00945,Foundation,Beauty,40,5,2023-12-02,CUST8611,Gift Card,UK
+TXN00946,Dumbbells,Sports,50,1,2024-09-04,CUST2319,Debit Card,Japan
+TXN00947,Foundation,Beauty,40,2,2024-08-07,CUST6103,Credit Card,Japan
+TXN00948,Nike Running Shoes,Fashion,120,4,2024-08-20,CUST3896,Credit Card,Nepal
+TXN00949,Dumbbells,Sports,50,1,2024-05-22,CUST5200,PayPal,USA
+TXN00950,Yoga Mat,Sports,25,3,2023-11-20,CUST8607,Debit Card,Nepal
+TXN00951,Nike Running Shoes,Fashion,120,2,2024-02-18,CUST3633,Credit Card,UK
+TXN00952,Yoga Mat,Sports,25,5,2023-11-02,CUST7769,Amazon Pay,Canada
+TXN00953,Microwave Oven,Home Appliances,200,4,2023-10-26,CUST7325,PayPal,Nepal
+TXN00954,Dumbbells,Sports,50,1,2024-03-21,CUST3644,Debit Card,Australia
+TXN00955,Blender,Home Appliances,50,5,2024-04-18,CUST7591,Debit Card,USA
+TXN00956,MacBook Pro,Computers,1499,1,2024-09-18,CUST4859,Credit Card,Germany
+TXN00957,Microwave Oven,Home Appliances,200,4,2024-02-14,CUST1186,Gift Card,Germany
+TXN00958,Samsung Galaxy S21,Electronics,799,4,2023-12-04,CUST9984,Gift Card,Germany
+TXN00959,Yoga Mat,Sports,25,2,2024-05-19,CUST9441,Gift Card,USA
+TXN00960,Nike Running Shoes,Fashion,120,2,2024-01-15,CUST9420,Gift Card,Australia
+TXN00961,Fiction Book,Books,15,5,2023-10-26,CUST9781,PayPal,Nepal
+TXN00962,Adidas T-shirt,Fashion,35,2,2024-02-11,CUST8450,Credit Card,Germany
+TXN00963,Foundation,Beauty,40,5,2024-07-26,CUST1619,Credit Card,Germany
+TXN00964,Dell Laptop,Computers,1099,3,2024-10-07,CUST5552,Debit Card,Canada
+TXN00965,Samsung Galaxy S21,Electronics,799,4,2024-05-19,CUST9590,Amazon Pay,Canada
+TXN00966,Nike Running Shoes,Fashion,120,2,2023-11-13,CUST6660,Debit Card,Japan
+TXN00967,Electric Kettle,Home Appliances,30,4,2024-09-13,CUST4373,PayPal,Japan
+TXN00968,Dumbbells,Sports,50,4,2024-06-29,CUST6934,Debit Card,India
+TXN00969,MacBook Pro,Computers,1499,2,2024-01-03,CUST2563,Amazon Pay,USA
+TXN00970,Samsung Galaxy S21,Electronics,799,3,2024-08-20,CUST3772,Credit Card,Australia
+TXN00971,Lipstick,Beauty,25,1,2024-01-21,CUST3339,Credit Card,USA
+TXN00972,Acoustic Guitar,Musical Instruments,250,5,2024-06-06,CUST8469,PayPal,Australia
+TXN00973,Blender,Home Appliances,50,3,2024-05-08,CUST6296,Gift Card,UK
+TXN00974,Dumbbells,Sports,50,3,2023-12-23,CUST8207,Gift Card,Japan
+TXN00975,Yoga Mat,Sports,25,3,2024-05-28,CUST6175,Amazon Pay,Australia
+TXN00976,MacBook Pro,Computers,1499,5,2024-05-02,CUST4524,PayPal,India
+TXN00977,Non-fiction Book,Books,20,4,2024-06-29,CUST9992,Credit Card,Nepal
+TXN00978,Adidas T-shirt,Fashion,35,2,2023-12-19,CUST5822,Gift Card,Canada
+TXN00979,Dell Laptop,Computers,1099,3,2024-01-22,CUST7537,Credit Card,Australia
+TXN00980,Sony Headphones,Electronics,199,1,2024-08-19,CUST3925,PayPal,Japan
+TXN00981,iPhone 13,Electronics,999,4,2024-06-01,CUST8163,Gift Card,Japan
+TXN00982,Vacuum Cleaner,Home Appliances,150,3,2024-05-09,CUST1075,PayPal,UK
+TXN00983,Lipstick,Beauty,25,4,2024-01-20,CUST6939,Gift Card,Germany
+TXN00984,iPhone 13,Electronics,999,1,2024-03-14,CUST6702,PayPal,Canada
+TXN00985,Microwave Oven,Home Appliances,200,2,2024-05-05,CUST8103,Gift Card,Nepal
+TXN00986,Nike Running Shoes,Fashion,120,4,2024-01-19,CUST7742,Debit Card,India
+TXN00987,Adidas T-shirt,Fashion,35,2,2024-06-03,CUST5774,Amazon Pay,Canada
+TXN00988,Fiction Book,Books,15,4,2024-05-31,CUST6333,Debit Card,India
+TXN00989,Adidas T-shirt,Fashion,35,3,2024-09-15,CUST1900,Amazon Pay,Germany
+TXN00990,Nike Running Shoes,Fashion,120,5,2024-04-02,CUST9934,Amazon Pay,USA
+TXN00991,Non-fiction Book,Books,20,2,2024-01-18,CUST9228,Credit Card,Australia
+TXN00992,Foundation,Beauty,40,4,2024-07-31,CUST9379,Amazon Pay,Canada
+TXN00993,Microwave Oven,Home Appliances,200,4,2024-06-29,CUST7395,Credit Card,Australia
+TXN00994,Acoustic Guitar,Musical Instruments,250,3,2023-11-18,CUST4232,PayPal,India
+TXN00995,Nike Running Shoes,Fashion,120,3,2024-08-20,CUST9066,Credit Card,UK
+TXN00996,Foundation,Beauty,40,3,2024-05-04,CUST2313,PayPal,Nepal
+TXN00997,Electric Guitar,Musical Instruments,400,4,2024-04-15,CUST7045,Amazon Pay,Japan
+TXN00998,Adidas T-shirt,Fashion,35,2,2024-07-30,CUST6201,Debit Card,Germany
+TXN00999,Yoga Mat,Sports,25,5,2024-01-16,CUST3049,Debit Card,Germany
+TXN01000,Levi’s Jeans,Fashion,70,1,2024-06-05,CUST5126,PayPal,Nepal
